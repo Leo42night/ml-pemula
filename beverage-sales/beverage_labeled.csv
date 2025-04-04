@@ -1,13 +1,13 @@
 Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 124.54,1.87,74,Hohes C Orange,0.1,0,Juices
 31.98,1.87,18,Fritz-Kola,0.05,0,Soft Drinks
-726.61,12.04,71,Merlot,0.15,4,Alcoholic Beverages
+726.61,12.04,71,Merlot,0.15,2,Alcoholic Beverages
 5316.13,64.91,91,Moët & Chandon,0.1,3,Alcoholic Beverages
 6.56,1.64,4,Granini Apple,0.0,0,Juices
 384.88,8.62,47,Riesling,0.05,0,Alcoholic Beverages
 8.7,1.74,5,Pepsi,0.0,0,Soft Drinks
 27.0,1.8,15,Hohes C Orange,0.0,0,Juices
-1550.29,30.22,57,Havana Club,0.1,4,Alcoholic Beverages
+1550.29,30.22,57,Havana Club,0.1,2,Alcoholic Beverages
 5.59,0.98,6,Vio Wasser,0.05,0,Water
 37.7,1.28,31,Granini Apple,0.05,0,Juices
 88.92,1.3,76,Schwip Schwap,0.1,0,Soft Drinks
@@ -30,7 +30,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.35,2.35,1,Red Bull,0.0,0,Soft Drinks
 38.76,3.23,12,Tomato Juice,0.0,0,Juices
 38.61,1.43,30,Beck's,0.1,0,Alcoholic Beverages
-841.85,10.51,89,Riesling,0.1,4,Alcoholic Beverages
+841.85,10.51,89,Riesling,0.1,2,Alcoholic Beverages
 30.66,2.19,14,Club Mate,0.0,0,Soft Drinks
 14.51,0.52,31,Selters,0.1,0,Water
 4.72,0.59,8,Mezzo Mix,0.0,0,Soft Drinks
@@ -55,13 +55,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.54,1.09,6,Augustiner,0.0,0,Alcoholic Beverages
 11.35,2.27,5,Rockstar,0.0,0,Soft Drinks
 28.75,0.89,34,Schwip Schwap,0.05,0,Soft Drinks
-0.46,0.46,1,Selters,0.0,0,Water
 10.4,1.04,10,Coca-Cola,0.0,0,Soft Drinks
 110.72,13.84,8,Bacardi,0.0,0,Alcoholic Beverages
 26.13,1.31,21,Volvic Touch,0.05,0,Water
 9.12,2.28,4,Red Bull,0.0,0,Soft Drinks
 9.84,1.64,6,Granini Apple,0.0,0,Juices
-0.46,0.46,1,Selters,0.0,0,Water
 47.97,0.99,51,Coca-Cola,0.05,0,Soft Drinks
 5.8,0.58,10,Volvic,0.0,0,Water
 24.96,3.12,8,Mango Juice,0.0,0,Juices
@@ -80,7 +78,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.86,1.31,6,Evian,0.0,0,Water
 44.59,3.43,13,Tomato Juice,0.0,0,Juices
 101.7,1.13,100,Apollinaris,0.1,0,Water
-848.08,106.01,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+848.08,106.01,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 6.62,3.31,2,Mango Juice,0.0,0,Juices
 22.23,1.71,13,Vio Wasser,0.0,0,Water
 31.14,3.46,9,Cranberry Juice,0.0,0,Juices
@@ -132,7 +130,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 55.39,1.19,49,Apollinaris,0.05,0,Water
 8.68,1.24,7,Schwip Schwap,0.0,0,Soft Drinks
 70.55,1.58,47,Mountain Dew,0.05,0,Soft Drinks
-978.7,11.82,92,Chardonnay,0.1,4,Alcoholic Beverages
+978.7,11.82,92,Chardonnay,0.1,2,Alcoholic Beverages
 4.59,1.53,3,Pepsi,0.0,0,Soft Drinks
 51.38,3.67,14,Cranberry Juice,0.0,0,Juices
 19.8,1.8,11,Hohes C Orange,0.0,0,Juices
@@ -175,7 +173,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 10.89,1.21,9,Coca-Cola,0.0,0,Soft Drinks
 1.69,1.69,1,Granini Apple,0.0,0,Juices
 6.92,3.46,2,Cranberry Juice,0.0,0,Juices
-531.63,19.69,30,Jack Daniels,0.1,4,Alcoholic Beverages
+531.63,19.69,30,Jack Daniels,0.1,2,Alcoholic Beverages
 8.9,0.89,10,San Pellegrino,0.0,0,Water
 2.19,2.19,1,Club Mate,0.0,0,Soft Drinks
 218.12,4.1,56,Chardonnay,0.05,0,Alcoholic Beverages
@@ -204,7 +202,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 46.41,1.91,27,Rockstar,0.1,0,Soft Drinks
 3.48,0.58,6,Volvic,0.0,0,Water
 3.81,1.27,3,Schwip Schwap,0.0,0,Soft Drinks
-1091.9,109.19,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1091.9,109.19,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 98.06,2.27,48,Rockstar,0.1,0,Soft Drinks
 8.45,1.69,5,Granini Apple,0.0,0,Juices
 5.5,1.1,5,Coca-Cola,0.0,0,Soft Drinks
@@ -223,7 +221,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 21.89,1.99,11,Fritz-Kola,0.0,0,Soft Drinks
 17.4,4.35,4,Merlot,0.0,0,Alcoholic Beverages
 68.86,3.02,24,Monster,0.05,0,Soft Drinks
-794.61,9.81,90,Riesling,0.1,4,Alcoholic Beverages
+794.61,9.81,90,Riesling,0.1,2,Alcoholic Beverages
 47.71,1.86,27,Erdinger Weißbier,0.05,0,Alcoholic Beverages
 14.35,2.05,7,Fritz-Kola,0.0,0,Soft Drinks
 73.2,4.88,15,Chardonnay,0.0,0,Alcoholic Beverages
@@ -237,7 +235,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.53,1.53,1,Pepsi,0.0,0,Soft Drinks
 29.1,1.94,15,Jever,0.0,0,Alcoholic Beverages
 5.6,0.56,10,Vittel,0.0,0,Water
-1060.1,106.01,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1060.1,106.01,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 292.6,3.08,100,Tomato Juice,0.05,0,Juices
 2.24,0.56,4,Vittel,0.0,0,Water
 12.6,1.8,7,Hohes C Orange,0.0,0,Juices
@@ -258,12 +256,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 61.05,1.26,51,Kölsch,0.05,0,Alcoholic Beverages
 303.54,11.63,29,Riesling,0.1,0,Alcoholic Beverages
 6.55,1.31,5,Evian,0.0,0,Water
-8104.75,95.35,100,Veuve Clicquot,0.15,2,Alcoholic Beverages
 12.84,3.21,4,Mango Juice,0.0,0,Juices
 57.89,2.68,24,Rauch Multivitamin,0.1,0,Juices
 90.95,1.07,100,San Pellegrino,0.15,0,Water
 4.89,1.63,3,Krombacher,0.0,0,Alcoholic Beverages
-532.8,35.52,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+532.8,35.52,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 4.95,0.55,9,Sprite,0.0,0,Soft Drinks
 167.3,5.87,30,Riesling,0.05,0,Alcoholic Beverages
 24.04,1.01,28,Evian,0.15,0,Water
@@ -289,7 +286,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.05,2.27,15,Rockstar,0.0,0,Soft Drinks
 9.69,3.23,3,Tomato Juice,0.0,0,Juices
 17.38,1.58,11,Pepsi,0.0,0,Soft Drinks
-1335.85,47.88,31,Tanqueray,0.1,4,Alcoholic Beverages
+1335.85,47.88,31,Tanqueray,0.1,2,Alcoholic Beverages
 3704.16,46.36,94,Johnnie Walker,0.15,1,Alcoholic Beverages
 6.54,1.09,6,Augustiner,0.0,0,Alcoholic Beverages
 19.38,3.23,6,Tomato Juice,0.0,0,Juices
@@ -299,7 +296,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 22.23,0.52,45,Selters,0.05,0,Water
 1.64,1.64,1,Granini Apple,0.0,0,Juices
 17.15,3.43,5,Tomato Juice,0.0,0,Juices
-753.75,50.25,15,Jack Daniels,0.0,4,Alcoholic Beverages
+753.75,50.25,15,Jack Daniels,0.0,2,Alcoholic Beverages
 124.49,1.82,76,Krombacher,0.1,0,Alcoholic Beverages
 18.57,1.15,17,Selters,0.05,0,Water
 349.39,5.18,71,Riesling,0.05,0,Alcoholic Beverages
@@ -323,7 +320,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.9,0.46,15,Selters,0.0,0,Water
 38.4,0.94,43,Evian,0.05,0,Water
 6.42,1.07,6,Coca-Cola,0.0,0,Soft Drinks
-1201.09,109.19,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1201.09,109.19,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 92.88,2.4,43,Passion Fruit Juice,0.1,0,Juices
 83.95,1.06,88,Gerolsteiner,0.1,0,Water
 1.49,1.49,1,Pepsi,0.0,0,Soft Drinks
@@ -419,13 +416,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.52,1.63,4,Krombacher,0.0,0,Alcoholic Beverages
 14.2,1.42,10,Volvic Touch,0.0,0,Water
 82.4,3.27,28,Red Bull,0.1,0,Soft Drinks
-0.46,0.46,1,Selters,0.0,0,Water
 37.15,1.7,23,Erdinger Weißbier,0.05,0,Alcoholic Beverages
 1.05,1.05,1,Warsteiner,0.0,0,Alcoholic Beverages
 6.25,3.29,2,Passion Fruit Juice,0.05,0,Juices
 51.03,1.26,45,Sprite,0.1,0,Soft Drinks
 3.68,0.46,8,Selters,0.0,0,Water
-982.71,109.19,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+982.71,109.19,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 10.66,0.66,17,Fanta,0.05,0,Soft Drinks
 20.17,1.93,11,Fritz-Kola,0.05,0,Soft Drinks
 6.22,3.11,2,Passion Fruit Juice,0.0,0,Juices
@@ -435,7 +431,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 10.06,5.03,2,Riesling,0.0,0,Alcoholic Beverages
 12.66,4.22,3,Merlot,0.0,0,Alcoholic Beverages
 5.6,0.59,10,Selters,0.05,0,Water
-526.68,30.8,18,Veuve Clicquot,0.05,4,Alcoholic Beverages
+526.68,30.8,18,Veuve Clicquot,0.05,2,Alcoholic Beverages
 23.25,1.55,15,Beck's,0.0,0,Alcoholic Beverages
 46.8,3.12,15,Mango Juice,0.0,0,Juices
 165.65,4.06,48,Merlot,0.15,0,Alcoholic Beverages
@@ -458,7 +454,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 46.62,3.33,14,Tomato Juice,0.0,0,Juices
 237.6,2.64,100,Granini Apple,0.1,0,Juices
 19.6,2.45,8,Rauch Multivitamin,0.0,0,Juices
-873.52,109.19,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+873.52,109.19,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 31.1,3.11,10,Passion Fruit Juice,0.0,0,Juices
 114.67,1.37,93,Warsteiner,0.1,0,Alcoholic Beverages
 5.58,1.86,3,Hohes C Orange,0.0,0,Juices
@@ -470,7 +466,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.72,0.56,12,Vittel,0.0,0,Water
 7.32,0.61,12,Mezzo Mix,0.0,0,Soft Drinks
 3.68,0.46,8,Selters,0.0,0,Water
-666.38,60.58,11,Moët & Chandon,0.0,4,Alcoholic Beverages
+666.38,60.58,11,Moët & Chandon,0.0,2,Alcoholic Beverages
 149.94,2.45,72,Beck's,0.15,0,Alcoholic Beverages
 75.22,2.14,37,Rauch Multivitamin,0.05,0,Juices
 8.85,0.59,15,Vittel,0.0,0,Water
@@ -510,7 +506,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.22,0.58,9,Vittel,0.0,0,Water
 23.94,0.6,42,Sprite,0.05,0,Soft Drinks
 20.46,1.86,11,Hohes C Orange,0.0,0,Juices
-1192.82,29.2,43,Havana Club,0.05,4,Alcoholic Beverages
+1192.82,29.2,43,Havana Club,0.05,2,Alcoholic Beverages
 21.89,1.99,11,Jever,0.0,0,Alcoholic Beverages
 89.05,2.18,43,Warsteiner,0.05,0,Alcoholic Beverages
 197.55,8.78,25,Merlot,0.1,0,Alcoholic Beverages
@@ -565,7 +561,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 25.56,2.13,12,Club Mate,0.0,0,Soft Drinks
 5.04,0.56,9,Sprite,0.0,0,Soft Drinks
 18.45,1.23,15,Evian,0.0,0,Water
-9181.85,129.14,79,Veuve Clicquot,0.1,2,Alcoholic Beverages
 1.72,0.86,2,San Pellegrino,0.0,0,Water
 7.55,0.53,15,Volvic,0.05,0,Water
 3.72,0.93,4,Mountain Dew,0.0,0,Soft Drinks
@@ -574,7 +569,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.28,0.56,13,Vittel,0.0,0,Water
 2232.95,45.11,55,Veuve Clicquot,0.1,1,Alcoholic Beverages
 93.45,13.35,7,Havana Club,0.0,0,Alcoholic Beverages
-965.18,12.47,86,Chardonnay,0.1,4,Alcoholic Beverages
+965.18,12.47,86,Chardonnay,0.1,2,Alcoholic Beverages
 280.44,3.8,82,Tomato Juice,0.1,0,Juices
 68.1,1.61,47,Krombacher,0.1,0,Alcoholic Beverages
 15.4,1.1,14,Coca-Cola,0.0,0,Soft Drinks
@@ -712,13 +707,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 220.78,3.33,78,Rauch Multivitamin,0.15,0,Juices
 3.08,0.54,6,Schwip Schwap,0.05,0,Soft Drinks
 320.85,35.65,9,Tanqueray,0.0,0,Alcoholic Beverages
-1168.31,23.65,52,Tanqueray,0.05,4,Alcoholic Beverages
+1168.31,23.65,52,Tanqueray,0.05,2,Alcoholic Beverages
 95.21,1.49,71,Warsteiner,0.1,0,Alcoholic Beverages
 5.17,0.47,11,Selters,0.0,0,Water
 5.88,0.49,12,Selters,0.0,0,Water
 3.98,1.99,2,Fritz-Kola,0.0,0,Soft Drinks
 42.34,1.96,24,Club Mate,0.1,0,Soft Drinks
-726.96,60.58,12,Moët & Chandon,0.0,4,Alcoholic Beverages
+726.96,60.58,12,Moët & Chandon,0.0,2,Alcoholic Beverages
 3.88,1.94,2,Jever,0.0,0,Alcoholic Beverages
 19.6,2.45,8,Rauch Multivitamin,0.0,0,Juices
 19.38,3.23,6,Tomato Juice,0.0,0,Juices
@@ -765,7 +760,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.35,2.58,3,Tomato Juice,0.05,0,Juices
 57.68,1.32,46,Granini Apple,0.05,0,Juices
 3.85,0.55,7,Sprite,0.0,0,Soft Drinks
-682.11,11.66,65,Chardonnay,0.1,4,Alcoholic Beverages
+682.11,11.66,65,Chardonnay,0.1,2,Alcoholic Beverages
 3.02,3.02,1,Passion Fruit Juice,0.0,0,Juices
 14.76,1.64,9,Granini Apple,0.0,0,Juices
 20.35,0.42,51,Volvic,0.05,0,Water
@@ -791,7 +786,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 4.77,1.59,3,Krombacher,0.0,0,Alcoholic Beverages
 4.18,0.88,5,Mezzo Mix,0.05,0,Soft Drinks
 13.68,2.28,6,Red Bull,0.0,0,Soft Drinks
-611.44,37.86,17,Tanqueray,0.05,4,Alcoholic Beverages
+611.44,37.86,17,Tanqueray,0.05,2,Alcoholic Beverages
 20.67,1.59,13,Granini Apple,0.0,0,Juices
 18.24,0.4,48,Volvic,0.05,0,Water
 17.04,2.13,8,Club Mate,0.0,0,Soft Drinks
@@ -805,13 +800,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 52.07,1.89,29,Monster,0.05,0,Soft Drinks
 6.37,0.91,7,San Pellegrino,0.0,0,Water
 8.26,1.62,6,Kölsch,0.15,0,Alcoholic Beverages
-1165.1,22.32,58,Jack Daniels,0.1,4,Alcoholic Beverages
-10088.36,120.53,93,Moët & Chandon,0.1,2,Alcoholic Beverages
+1165.1,22.32,58,Jack Daniels,0.1,2,Alcoholic Beverages
 3.22,1.61,2,Vio Wasser,0.0,0,Water
 13.02,1.86,7,Hohes C Orange,0.0,0,Juices
 5.31,0.59,9,Mezzo Mix,0.0,0,Soft Drinks
 9.94,1.42,7,Volvic Touch,0.0,0,Water
-686.16,9.53,80,Chardonnay,0.1,4,Alcoholic Beverages
+686.16,9.53,80,Chardonnay,0.1,2,Alcoholic Beverages
 2.45,0.43,6,San Pellegrino,0.05,0,Water
 12.84,1.07,12,Gerolsteiner,0.0,0,Water
 3.84,1.01,4,Evian,0.05,0,Water
@@ -865,12 +859,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 78.62,2.08,42,Erdinger Weißbier,0.1,0,Alcoholic Beverages
 17.56,0.84,22,Apollinaris,0.05,0,Water
 2.6,0.65,4,Vittel,0.0,0,Water
-516.23,12.35,44,Bacardi,0.05,4,Alcoholic Beverages
+516.23,12.35,44,Bacardi,0.05,2,Alcoholic Beverages
 4.54,2.27,2,Rockstar,0.0,0,Soft Drinks
 154.98,2.46,70,Kölsch,0.1,0,Alcoholic Beverages
 487.9,48.79,10,Jack Daniels,0.0,0,Alcoholic Beverages
 28.48,3.56,8,Cranberry Juice,0.0,0,Juices
-0.46,0.46,1,Selters,0.0,0,Water
 6.46,0.85,8,Pepsi,0.05,0,Soft Drinks
 6.24,3.12,2,Monster,0.0,0,Soft Drinks
 5.35,1.07,5,Gerolsteiner,0.0,0,Water
@@ -896,7 +889,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 25.41,2.31,11,Rauch Multivitamin,0.0,0,Juices
 3.72,1.86,2,Hohes C Orange,0.0,0,Juices
 30.88,0.65,50,Volvic Touch,0.05,0,Water
-1202.27,32.45,39,Bacardi,0.05,4,Alcoholic Beverages
+1202.27,32.45,39,Bacardi,0.05,2,Alcoholic Beverages
 1.88,0.47,4,Selters,0.0,0,Water
 79.1,0.94,99,Vittel,0.15,0,Water
 17.22,1.23,14,Evian,0.0,0,Water
@@ -915,7 +908,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.96,1.05,18,Kölsch,0.05,0,Alcoholic Beverages
 59.78,8.54,7,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 28.89,3.21,9,Monster,0.0,0,Soft Drinks
-628.21,57.11,11,Moët & Chandon,0.0,4,Alcoholic Beverages
+628.21,57.11,11,Moët & Chandon,0.0,2,Alcoholic Beverages
 3.31,3.31,1,Monster,0.0,0,Soft Drinks
 1.37,0.72,2,Pepsi,0.05,0,Soft Drinks
 26.95,2.45,11,Rauch Multivitamin,0.0,0,Juices
@@ -923,7 +916,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.96,1.74,4,Pepsi,0.0,0,Soft Drinks
 46.44,1.04,47,Mezzo Mix,0.05,0,Soft Drinks
 27.56,2.12,13,Fritz-Kola,0.0,0,Soft Drinks
-917.08,29.16,37,Havana Club,0.15,4,Alcoholic Beverages
+917.08,29.16,37,Havana Club,0.15,2,Alcoholic Beverages
 11.77,1.07,11,Gerolsteiner,0.0,0,Water
 72.1,1.65,46,Hohes C Orange,0.05,0,Juices
 7.63,1.09,7,Augustiner,0.0,0,Alcoholic Beverages
@@ -1102,8 +1095,8 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.88,0.96,3,Apollinaris,0.0,0,Water
 7.54,0.58,13,Volvic,0.0,0,Water
 45.23,2.07,23,Rauch Multivitamin,0.05,0,Juices
-856.65,57.11,15,Moët & Chandon,0.0,4,Alcoholic Beverages
-605.8,60.58,10,Moët & Chandon,0.0,4,Alcoholic Beverages
+856.65,57.11,15,Moët & Chandon,0.0,2,Alcoholic Beverages
+605.8,60.58,10,Moët & Chandon,0.0,2,Alcoholic Beverages
 64.8,4.32,15,Riesling,0.0,0,Alcoholic Beverages
 5.94,1.32,5,Krombacher,0.1,0,Alcoholic Beverages
 79.19,1.37,68,Volvic Touch,0.15,0,Water
@@ -1164,7 +1157,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.66,1.38,7,Volvic Touch,0.0,0,Water
 14.56,0.73,21,Selters,0.05,0,Water
 69.99,1.01,77,San Pellegrino,0.1,0,Water
-1012.14,112.46,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1012.14,112.46,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 46.34,3.31,14,Monster,0.0,0,Soft Drinks
 18.04,1.64,11,Pepsi,0.0,0,Soft Drinks
 7.66,0.62,13,Pepsi,0.05,0,Soft Drinks
@@ -1183,17 +1176,17 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 28.08,2.34,12,Rockstar,0.0,0,Soft Drinks
 23.67,0.89,28,Evian,0.05,0,Water
 140.07,1.97,79,Evian,0.1,0,Water
-884.91,32.12,29,Johnnie Walker,0.05,4,Alcoholic Beverages
+884.91,32.12,29,Johnnie Walker,0.05,2,Alcoholic Beverages
 22.44,2.04,11,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 4.13,0.59,7,Mezzo Mix,0.0,0,Soft Drinks
-1027.95,68.53,15,Moët & Chandon,0.0,4,Alcoholic Beverages
+1027.95,68.53,15,Moët & Chandon,0.0,2,Alcoholic Beverages
 62.27,2.85,23,Cranberry Juice,0.05,0,Juices
 30.24,4.32,7,Riesling,0.0,0,Alcoholic Beverages
 73.2,4.88,15,Chardonnay,0.0,0,Alcoholic Beverages
 6.93,2.31,3,Rauch Multivitamin,0.0,0,Juices
 5.49,0.61,9,Mezzo Mix,0.0,0,Soft Drinks
 51.87,1.05,52,Jever,0.05,0,Alcoholic Beverages
-1049.4,11.66,100,Merlot,0.1,4,Alcoholic Beverages
+1049.4,11.66,100,Merlot,0.1,2,Alcoholic Beverages
 18.01,0.79,24,Volvic Touch,0.05,0,Water
 9.92,1.24,8,Schwip Schwap,0.0,0,Soft Drinks
 9.3,1.86,5,Hohes C Orange,0.0,0,Juices
@@ -1218,7 +1211,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 25.68,3.21,8,Mango Juice,0.0,0,Juices
 28.08,3.12,9,Mango Juice,0.0,0,Juices
 40.56,3.12,13,Monster,0.0,0,Soft Drinks
-686.97,8.98,90,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+686.97,8.98,90,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 34.54,1.01,36,Gerolsteiner,0.05,0,Water
 58.79,2.21,28,Club Mate,0.05,0,Soft Drinks
 9.09,9.09,1,Sauvignon Blanc,0.0,0,Alcoholic Beverages
@@ -1289,7 +1282,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.0,1.8,5,Hohes C Orange,0.0,0,Juices
 2.2,0.55,4,Volvic,0.0,0,Water
 123.75,2.11,69,Kölsch,0.15,0,Alcoholic Beverages
-1528.66,109.19,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1528.66,109.19,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 4.64,1.16,4,Fanta,0.0,0,Soft Drinks
 38.76,3.23,12,Tomato Juice,0.0,0,Juices
 36.08,2.11,19,Club Mate,0.1,0,Soft Drinks
@@ -1323,7 +1316,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 90.4,1.56,61,Vio Wasser,0.05,0,Water
 9.46,0.86,11,San Pellegrino,0.0,0,Water
 10.36,1.09,10,Selters,0.05,0,Water
-635.31,10.86,65,Chardonnay,0.1,4,Alcoholic Beverages
+635.31,10.86,65,Chardonnay,0.1,2,Alcoholic Beverages
 2.88,0.96,3,Kölsch,0.0,0,Alcoholic Beverages
 6.3,1.05,6,Warsteiner,0.0,0,Alcoholic Beverages
 2.76,2.91,1,Rauch Multivitamin,0.05,0,Juices
@@ -1367,7 +1360,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.36,0.56,6,Vittel,0.0,0,Water
 16.4,1.64,10,Granini Apple,0.0,0,Juices
 292.72,36.59,8,Johnnie Walker,0.0,0,Alcoholic Beverages
-776.4,51.76,15,Jack Daniels,0.0,4,Alcoholic Beverages
+776.4,51.76,15,Jack Daniels,0.0,2,Alcoholic Beverages
 55.33,5.03,11,Chardonnay,0.0,0,Alcoholic Beverages
 64.64,1.08,63,Schwip Schwap,0.05,0,Soft Drinks
 0.49,0.49,1,Selters,0.0,0,Water
@@ -1406,10 +1399,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 133.28,1.6,98,San Pellegrino,0.15,0,Water
 192.77,16.91,12,Havana Club,0.05,0,Alcoholic Beverages
 21.55,0.54,42,Vio Wasser,0.05,0,Water
-1419.47,109.19,13,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1419.47,109.19,13,Veuve Clicquot,0.0,2,Alcoholic Beverages
 11.79,1.31,9,Evian,0.0,0,Water
 29.97,3.33,9,Tomato Juice,0.0,0,Juices
-1287.86,30.81,44,Bacardi,0.05,4,Alcoholic Beverages
+1287.86,30.81,44,Bacardi,0.05,2,Alcoholic Beverages
 22.47,3.21,7,Mango Juice,0.0,0,Juices
 3.28,1.64,2,Granini Apple,0.0,0,Juices
 0.92,0.46,2,Selters,0.0,0,Water
@@ -1435,7 +1428,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 29.07,1.9,17,Club Mate,0.1,0,Soft Drinks
 11.2,2.24,5,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 16.55,3.31,5,Monster,0.0,0,Soft Drinks
-764.66,58.82,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+764.66,58.82,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 55.05,3.67,15,Cranberry Juice,0.0,0,Juices
 291.8,3.77,86,Tomato Juice,0.1,0,Juices
 79.78,2.77,32,Tomato Juice,0.1,0,Juices
@@ -1528,7 +1521,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 22.05,2.45,9,Rauch Multivitamin,0.0,0,Juices
 8.12,0.58,14,Volvic,0.0,0,Water
 88.2,1.0,98,San Pellegrino,0.1,0,Water
-1349.52,112.46,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1349.52,112.46,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 61.56,1.35,48,Volvic Touch,0.05,0,Water
 452.28,37.69,12,Johnnie Walker,0.0,0,Alcoholic Beverages
 1.04,1.04,1,Coca-Cola,0.0,0,Soft Drinks
@@ -1579,14 +1572,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 16.35,1.09,15,Augustiner,0.0,0,Alcoholic Beverages
 24.15,1.61,15,Vio Wasser,0.0,0,Water
 3043.94,51.9,69,Johnnie Walker,0.15,1,Alcoholic Beverages
-0.46,0.46,1,Selters,0.0,0,Water
 1.24,1.24,1,Schwip Schwap,0.0,0,Soft Drinks
 3.26,1.63,2,Krombacher,0.0,0,Alcoholic Beverages
 9.52,1.19,8,Fanta,0.0,0,Soft Drinks
 10.48,1.31,8,Evian,0.0,0,Water
 1.99,1.99,1,Fritz-Kola,0.0,0,Soft Drinks
 200.25,13.35,15,Havana Club,0.0,0,Alcoholic Beverages
-1074.71,12.84,93,Chardonnay,0.1,4,Alcoholic Beverages
+1074.71,12.84,93,Chardonnay,0.1,2,Alcoholic Beverages
 0.93,0.93,1,Kölsch,0.0,0,Alcoholic Beverages
 6.84,1.71,4,Vio Wasser,0.0,0,Water
 40.32,13.44,3,Bacardi,0.0,0,Alcoholic Beverages
@@ -1634,12 +1626,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 65.14,1.54,47,Sprite,0.1,0,Soft Drinks
 9.99,3.33,3,Tomato Juice,0.0,0,Juices
 3.6,1.8,2,Hohes C Orange,0.0,0,Juices
-565.35,37.69,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+565.35,37.69,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 5.04,0.63,8,Mezzo Mix,0.0,0,Soft Drinks
 93.31,1.08,96,Schwip Schwap,0.1,0,Soft Drinks
 9.69,0.68,15,Vittel,0.05,0,Water
 46.54,0.71,69,Pepsi,0.05,0,Soft Drinks
-651.66,11.87,61,Chardonnay,0.1,4,Alcoholic Beverages
+651.66,11.87,61,Chardonnay,0.1,2,Alcoholic Beverages
 8.25,0.55,15,Volvic,0.0,0,Water
 4.29,1.13,4,Warsteiner,0.05,0,Alcoholic Beverages
 80.99,2.75,31,Cranberry Juice,0.05,0,Juices
@@ -1716,7 +1708,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 55.44,1.12,55,Kölsch,0.1,0,Alcoholic Beverages
 19.17,2.13,9,Club Mate,0.0,0,Soft Drinks
 14.7,1.05,14,Warsteiner,0.0,0,Alcoholic Beverages
-787.22,112.46,7,Veuve Clicquot,0.0,4,Alcoholic Beverages
+787.22,112.46,7,Veuve Clicquot,0.0,2,Alcoholic Beverages
 5.76,0.96,6,Apollinaris,0.0,0,Water
 4.95,0.99,5,Apollinaris,0.0,0,Water
 33.03,3.67,9,Cranberry Juice,0.0,0,Juices
@@ -1773,7 +1765,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 71.1,4.74,15,Chardonnay,0.0,0,Alcoholic Beverages
 173.05,34.61,5,Tanqueray,0.0,0,Alcoholic Beverages
 111.58,2.61,45,Tomato Juice,0.05,0,Juices
-895.07,11.49,82,Sauvignon Blanc,0.05,4,Alcoholic Beverages
+895.07,11.49,82,Sauvignon Blanc,0.05,2,Alcoholic Beverages
 4.72,0.59,8,Vittel,0.0,0,Water
 9.79,0.89,11,San Pellegrino,0.0,0,Water
 23.88,1.99,12,Fritz-Kola,0.0,0,Soft Drinks
@@ -1805,7 +1797,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.94,1.49,6,Pepsi,0.0,0,Soft Drinks
 99.14,1.62,72,Selters,0.15,0,Water
 5.55,0.73,8,Apollinaris,0.05,0,Water
-688.01,8.22,93,Riesling,0.1,4,Alcoholic Beverages
+688.01,8.22,93,Riesling,0.1,2,Alcoholic Beverages
 259.21,3.21,95,Rauch Multivitamin,0.15,0,Juices
 272.88,3.34,86,Passion Fruit Juice,0.05,0,Juices
 7.26,1.21,6,Coca-Cola,0.0,0,Soft Drinks
@@ -1845,11 +1837,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.8,4.35,8,Merlot,0.0,0,Alcoholic Beverages
 8.37,0.93,9,Apollinaris,0.0,0,Water
 66.22,6.97,10,Sauvignon Blanc,0.05,0,Alcoholic Beverages
-764.66,58.82,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+764.66,58.82,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 3.18,1.59,2,Granini Apple,0.0,0,Juices
 6.24,3.12,2,Mango Juice,0.0,0,Juices
 2.46,1.23,2,Fanta,0.0,0,Soft Drinks
-749.39,10.54,79,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+749.39,10.54,79,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 3.3,0.55,6,Sprite,0.0,0,Soft Drinks
 158.65,2.26,78,Jever,0.1,0,Alcoholic Beverages
 16.4,2.05,8,Fritz-Kola,0.0,0,Soft Drinks
@@ -1879,7 +1871,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2676.16,36.71,81,Jack Daniels,0.1,1,Alcoholic Beverages
 223.2,2.48,100,Hohes C Orange,0.1,0,Juices
 132.36,1.91,77,Vio Wasser,0.1,0,Water
-1811.12,34.93,61,Jack Daniels,0.15,4,Alcoholic Beverages
+1811.12,34.93,61,Jack Daniels,0.15,2,Alcoholic Beverages
 0.47,0.47,1,Selters,0.0,0,Water
 91.87,1.76,58,Krombacher,0.1,0,Alcoholic Beverages
 2.28,2.28,1,Red Bull,0.0,0,Soft Drinks
@@ -1889,7 +1881,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 201.0,50.25,4,Jack Daniels,0.0,0,Alcoholic Beverages
 10.03,0.48,22,Vittel,0.05,0,Water
 22.97,0.78,31,Coca-Cola,0.05,0,Soft Drinks
-1330.64,28.99,51,Jack Daniels,0.1,4,Alcoholic Beverages
+1330.64,28.99,51,Jack Daniels,0.1,2,Alcoholic Beverages
 3.33,3.33,1,Tomato Juice,0.0,0,Juices
 3175.13,69.63,48,Veuve Clicquot,0.05,1,Alcoholic Beverages
 7.34,3.67,2,Cranberry Juice,0.0,0,Juices
@@ -1923,7 +1915,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.66,0.56,5,Selters,0.05,0,Water
 12.24,2.04,6,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 99.82,14.26,7,Bacardi,0.0,0,Alcoholic Beverages
-1012.14,112.46,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1012.14,112.46,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 80.64,13.44,6,Bacardi,0.0,0,Alcoholic Beverages
 27.18,3.02,9,Passion Fruit Juice,0.0,0,Juices
 39.33,2.3,18,Augustiner,0.05,0,Alcoholic Beverages
@@ -1947,7 +1939,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 15.05,1.76,9,Granini Apple,0.05,0,Juices
 19.08,1.59,12,Granini Apple,0.0,0,Juices
 5.04,0.56,9,Vittel,0.0,0,Water
-787.22,112.46,7,Veuve Clicquot,0.0,4,Alcoholic Beverages
+787.22,112.46,7,Veuve Clicquot,0.0,2,Alcoholic Beverages
 11.52,0.96,12,Kölsch,0.0,0,Alcoholic Beverages
 88.82,1.1,95,Sprite,0.15,0,Soft Drinks
 126.85,2.43,58,Tomato Juice,0.1,0,Juices
@@ -1970,11 +1962,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.61,1.23,7,Evian,0.0,0,Water
 41.16,3.43,12,Tomato Juice,0.0,0,Juices
 57.33,0.71,95,Evian,0.15,0,Water
-536.69,48.79,11,Jack Daniels,0.0,4,Alcoholic Beverages
+536.69,48.79,11,Jack Daniels,0.0,2,Alcoholic Beverages
 29.79,3.31,9,Mango Juice,0.0,0,Juices
 126.52,1.42,99,Granini Apple,0.1,0,Juices
 11.27,1.61,7,Vio Wasser,0.0,0,Water
-1574.44,112.46,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1574.44,112.46,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 19.26,3.21,6,Mango Juice,0.0,0,Juices
 14.2,1.42,10,Volvic Touch,0.0,0,Water
 3.33,3.33,1,Tomato Juice,0.0,0,Juices
@@ -1988,7 +1980,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 28.74,0.55,55,Gerolsteiner,0.05,0,Water
 2491.05,35.92,73,Bacardi,0.05,1,Alcoholic Beverages
 27.16,1.94,14,Jever,0.0,0,Alcoholic Beverages
-500.98,7.84,71,Riesling,0.1,4,Alcoholic Beverages
+500.98,7.84,71,Riesling,0.1,2,Alcoholic Beverages
 91.7,1.16,93,Fanta,0.15,0,Soft Drinks
 35.21,5.03,7,Chardonnay,0.0,0,Alcoholic Beverages
 2.79,0.93,3,Mountain Dew,0.0,0,Soft Drinks
@@ -2027,16 +2019,16 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.49,1.49,1,Pepsi,0.0,0,Soft Drinks
 85.42,2.81,32,Passion Fruit Juice,0.05,0,Juices
 103.74,2.73,40,Mango Juice,0.05,0,Juices
-1176.07,16.67,83,Riesling,0.15,4,Alcoholic Beverages
+1176.07,16.67,83,Riesling,0.15,2,Alcoholic Beverages
 37.98,4.22,9,Merlot,0.0,0,Alcoholic Beverages
 1.21,1.21,1,Coca-Cola,0.0,0,Soft Drinks
 0.58,0.58,1,Vittel,0.0,0,Water
-674.76,112.46,6,Veuve Clicquot,0.0,4,Alcoholic Beverages
+674.76,112.46,6,Veuve Clicquot,0.0,2,Alcoholic Beverages
 17.64,1.26,14,Evian,0.0,0,Water
 38.09,2.93,13,Passion Fruit Juice,0.0,0,Juices
 7.38,1.23,6,Fanta,0.0,0,Soft Drinks
 65.25,4.35,15,Merlot,0.0,0,Alcoholic Beverages
-519.15,34.61,15,Tanqueray,0.0,4,Alcoholic Beverages
+519.15,34.61,15,Tanqueray,0.0,2,Alcoholic Beverages
 40.53,0.79,54,Volvic,0.05,0,Water
 17.3,3.46,5,Cranberry Juice,0.0,0,Juices
 162.01,3.83,47,Tomato Juice,0.1,0,Juices
@@ -2061,7 +2053,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 39.04,4.88,8,Chardonnay,0.0,0,Alcoholic Beverages
 17.38,1.58,11,Pepsi,0.0,0,Soft Drinks
 5.2,1.04,5,Gerolsteiner,0.0,0,Water
-581.52,8.66,79,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+581.52,8.66,79,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 163.53,3.02,57,Red Bull,0.05,0,Soft Drinks
 4.64,1.16,4,Fanta,0.0,0,Soft Drinks
 4.76,2.38,2,Rauch Multivitamin,0.0,0,Juices
@@ -2071,13 +2063,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 33.32,2.38,14,Rauch Multivitamin,0.0,0,Juices
 112.96,2.53,47,Fritz-Kola,0.05,0,Soft Drinks
 2.44,0.61,4,Mezzo Mix,0.0,0,Soft Drinks
-979.26,34.36,30,Johnnie Walker,0.05,4,Alcoholic Beverages
+979.26,34.36,30,Johnnie Walker,0.05,2,Alcoholic Beverages
 9.52,2.38,4,Rauch Multivitamin,0.0,0,Juices
 2.24,1.12,2,Augustiner,0.0,0,Alcoholic Beverages
 6.11,0.47,13,Selters,0.0,0,Water
 55.4,2.28,27,Rauch Multivitamin,0.1,0,Juices
 22.75,1.75,13,Hohes C Orange,0.0,0,Juices
-920.81,28.42,36,Havana Club,0.1,4,Alcoholic Beverages
+920.81,28.42,36,Havana Club,0.1,2,Alcoholic Beverages
 2.35,0.47,5,Selters,0.0,0,Water
 17.71,1.61,11,Vio Wasser,0.0,0,Water
 35.95,4.73,8,Merlot,0.05,0,Alcoholic Beverages
@@ -2105,19 +2097,19 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 29.7,1.98,15,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 100.64,12.58,8,Havana Club,0.0,0,Alcoholic Beverages
 18.12,3.02,6,Passion Fruit Juice,0.0,0,Juices
-664.2,9.0,82,Riesling,0.1,4,Alcoholic Beverages
+664.2,9.0,82,Riesling,0.1,2,Alcoholic Beverages
 4.48,0.56,8,Vittel,0.0,0,Water
 23.7,4.74,5,Chardonnay,0.0,0,Alcoholic Beverages
 8.68,1.24,7,Schwip Schwap,0.0,0,Soft Drinks
 75.24,0.88,95,San Pellegrino,0.1,0,Water
-1427.74,93.93,16,Moët & Chandon,0.05,4,Alcoholic Beverages
-1636.47,31.9,57,Jack Daniels,0.1,4,Alcoholic Beverages
+1427.74,93.93,16,Moët & Chandon,0.05,2,Alcoholic Beverages
+1636.47,31.9,57,Jack Daniels,0.1,2,Alcoholic Beverages
 241.2,4.0,67,Cranberry Juice,0.1,0,Juices
 69.22,34.61,2,Tanqueray,0.0,0,Alcoholic Beverages
 24.97,2.27,11,Rockstar,0.0,0,Soft Drinks
 3355.39,41.12,96,Jack Daniels,0.15,1,Alcoholic Beverages
-1624.27,71.24,24,Moët & Chandon,0.05,4,Alcoholic Beverages
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1624.27,71.24,24,Moët & Chandon,0.05,2,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 436.8,33.6,13,Tanqueray,0.0,0,Alcoholic Beverages
 1.24,1.24,1,Schwip Schwap,0.0,0,Soft Drinks
 7.58,0.57,14,Mezzo Mix,0.05,0,Soft Drinks
@@ -2128,13 +2120,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 260.82,3.45,84,Red Bull,0.1,0,Soft Drinks
 20.68,1.88,11,Jever,0.0,0,Alcoholic Beverages
 90.09,1.82,55,Kölsch,0.1,0,Alcoholic Beverages
-734.44,8.59,95,Riesling,0.1,4,Alcoholic Beverages
+734.44,8.59,95,Riesling,0.1,2,Alcoholic Beverages
 61.55,2.09,31,Augustiner,0.05,0,Alcoholic Beverages
 111.5,1.21,97,Mezzo Mix,0.05,0,Soft Drinks
 19.68,1.64,12,Granini Apple,0.0,0,Juices
 13.02,0.93,14,Apollinaris,0.0,0,Water
 73.6,0.94,87,Sprite,0.1,0,Soft Drinks
-556.78,8.88,66,Riesling,0.05,4,Alcoholic Beverages
+556.78,8.88,66,Riesling,0.05,2,Alcoholic Beverages
 13.65,0.91,15,San Pellegrino,0.0,0,Water
 182.09,5.62,36,Rotkäppchen Sekt,0.1,0,Alcoholic Beverages
 13.41,1.49,9,Pepsi,0.0,0,Soft Drinks
@@ -2159,7 +2151,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.28,1.02,14,Warsteiner,0.0,0,Alcoholic Beverages
 8.83,8.83,1,Sauvignon Blanc,0.0,0,Alcoholic Beverages
 144.3,1.83,83,Granini Apple,0.05,0,Juices
-934.83,22.1,47,Havana Club,0.1,4,Alcoholic Beverages
+934.83,22.1,47,Havana Club,0.1,2,Alcoholic Beverages
 17.3,3.46,5,Cranberry Juice,0.0,0,Juices
 31.05,1.72,19,Granini Apple,0.05,0,Juices
 4.48,0.56,8,Vittel,0.0,0,Water
@@ -2187,7 +2179,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 4.38,1.46,3,Volvic Touch,0.0,0,Water
 2.58,0.86,3,San Pellegrino,0.0,0,Water
 2.85,0.57,5,Volvic,0.0,0,Water
-1590.15,106.01,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1590.15,106.01,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 8.76,1.46,6,Volvic Touch,0.0,0,Water
 6.15,2.05,3,Fritz-Kola,0.0,0,Soft Drinks
 23.4,1.8,13,Hohes C Orange,0.0,0,Juices
@@ -2216,7 +2208,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.21,2.21,1,Rockstar,0.0,0,Soft Drinks
 151.71,1.94,92,Vio Wasser,0.15,0,Water
 3.69,1.23,3,Evian,0.0,0,Water
-873.52,109.19,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+873.52,109.19,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 10.17,1.19,9,Granini Apple,0.05,0,Juices
 150.75,50.25,3,Jack Daniels,0.0,0,Alcoholic Beverages
 7.41,0.57,13,Volvic,0.0,0,Water
@@ -2225,7 +2217,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 48.15,3.21,15,Mango Juice,0.0,0,Juices
 6.92,3.46,2,Cranberry Juice,0.0,0,Juices
 18.6,1.86,10,Hohes C Orange,0.0,0,Juices
-1153.59,23.81,57,Tanqueray,0.15,4,Alcoholic Beverages
+1153.59,23.81,57,Tanqueray,0.15,2,Alcoholic Beverages
 28.56,2.38,12,Rauch Multivitamin,0.0,0,Juices
 129.89,1.76,82,Volvic Touch,0.1,0,Water
 45.45,9.09,5,Sauvignon Blanc,0.0,0,Alcoholic Beverages
@@ -2239,9 +2231,9 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 113.47,1.97,64,Granini Apple,0.1,0,Juices
 179.92,13.84,13,Bacardi,0.0,0,Alcoholic Beverages
 1.72,0.86,2,San Pellegrino,0.0,0,Water
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 1.61,1.61,1,Vio Wasser,0.0,0,Water
-536.69,48.79,11,Jack Daniels,0.0,4,Alcoholic Beverages
+536.69,48.79,11,Jack Daniels,0.0,2,Alcoholic Beverages
 25.16,12.58,2,Havana Club,0.0,0,Alcoholic Beverages
 407.84,10.07,45,Riesling,0.1,0,Alcoholic Beverages
 2.22,2.22,1,Red Bull,0.0,0,Soft Drinks
@@ -2271,7 +2263,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.19,0.63,13,Mezzo Mix,0.0,0,Soft Drinks
 51.76,51.76,1,Jack Daniels,0.0,0,Alcoholic Beverages
 11.44,1.04,11,Gerolsteiner,0.0,0,Water
-639.85,51.81,13,Veuve Clicquot,0.05,4,Alcoholic Beverages
+639.85,51.81,13,Veuve Clicquot,0.05,2,Alcoholic Beverages
 28.56,2.38,12,Rauch Multivitamin,0.0,0,Juices
 23.7,4.74,5,Chardonnay,0.0,0,Alcoholic Beverages
 18.0,1.8,10,Hohes C Orange,0.0,0,Juices
@@ -2293,7 +2285,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.26,1.02,13,Warsteiner,0.0,0,Alcoholic Beverages
 196.84,2.59,80,Fritz-Kola,0.05,0,Soft Drinks
 2.08,1.04,2,Coca-Cola,0.0,0,Soft Drinks
-1217.03,14.86,91,Bacardi,0.1,4,Alcoholic Beverages
+1217.03,14.86,91,Bacardi,0.1,2,Alcoholic Beverages
 3.33,3.33,1,Tomato Juice,0.0,0,Juices
 81.0,1.2,75,Schwip Schwap,0.1,0,Soft Drinks
 49.49,1.17,47,Jever,0.1,0,Alcoholic Beverages
@@ -2310,11 +2302,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 12.4,1.24,10,Schwip Schwap,0.0,0,Soft Drinks
 55.45,1.01,61,Beck's,0.1,0,Alcoholic Beverages
 24.9,1.66,15,Vio Wasser,0.0,0,Water
-798.34,11.52,77,Riesling,0.1,4,Alcoholic Beverages
+798.34,11.52,77,Riesling,0.1,2,Alcoholic Beverages
 13.16,1.88,7,Jever,0.0,0,Alcoholic Beverages
 285.85,10.03,30,Merlot,0.05,0,Alcoholic Beverages
 49.9,2.52,22,Granini Apple,0.1,0,Juices
-1461.98,112.46,13,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1461.98,112.46,13,Veuve Clicquot,0.0,2,Alcoholic Beverages
 9.08,2.27,4,Rockstar,0.0,0,Soft Drinks
 2.1,1.05,2,Warsteiner,0.0,0,Alcoholic Beverages
 2.76,0.46,6,Selters,0.0,0,Water
@@ -2330,7 +2322,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 15.3,1.53,10,Pepsi,0.0,0,Soft Drinks
 31.85,2.45,13,Rauch Multivitamin,0.0,0,Juices
 11.88,0.99,12,Mountain Dew,0.0,0,Soft Drinks
-776.4,51.76,15,Jack Daniels,0.0,4,Alcoholic Beverages
+776.4,51.76,15,Jack Daniels,0.0,2,Alcoholic Beverages
 21.22,0.64,39,Apollinaris,0.15,0,Water
 96.96,1.89,54,Rockstar,0.05,0,Soft Drinks
 0.61,0.61,1,Mezzo Mix,0.0,0,Soft Drinks
@@ -2361,7 +2353,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 35.52,35.52,1,Johnnie Walker,0.0,0,Alcoholic Beverages
 41.02,2.93,14,Passion Fruit Juice,0.0,0,Juices
 25.44,2.12,12,Fritz-Kola,0.0,0,Soft Drinks
-882.3,58.82,15,Moët & Chandon,0.0,4,Alcoholic Beverages
+882.3,58.82,15,Moët & Chandon,0.0,2,Alcoholic Beverages
 3.6,1.8,2,Hohes C Orange,0.0,0,Juices
 25.16,12.58,2,Havana Club,0.0,0,Alcoholic Beverages
 89.79,5.56,17,Riesling,0.05,0,Alcoholic Beverages
@@ -2413,7 +2405,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 105.63,1.21,97,Coca-Cola,0.1,0,Soft Drinks
 5.94,0.99,6,Apollinaris,0.0,0,Water
 2.97,0.99,3,Kölsch,0.0,0,Alcoholic Beverages
-811.66,10.61,90,Riesling,0.15,4,Alcoholic Beverages
+811.66,10.61,90,Riesling,0.15,2,Alcoholic Beverages
 4463.1,52.2,95,Johnnie Walker,0.1,3,Alcoholic Beverages
 65.48,1.07,68,Warsteiner,0.1,0,Alcoholic Beverages
 40.24,5.03,8,Chardonnay,0.0,0,Alcoholic Beverages
@@ -2428,7 +2420,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 32.04,3.56,9,Cranberry Juice,0.0,0,Juices
 50.54,1.08,52,Evian,0.1,0,Water
 24.45,0.99,26,Volvic Touch,0.05,0,Water
-680.21,12.39,61,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+680.21,12.39,61,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 29.07,3.23,9,Tomato Juice,0.0,0,Juices
 16.66,2.38,7,Rauch Multivitamin,0.0,0,Juices
 2430.25,50.16,51,Moët & Chandon,0.05,1,Alcoholic Beverages
@@ -2476,7 +2468,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.92,0.56,7,Vittel,0.0,0,Water
 5.52,0.46,12,Selters,0.0,0,Water
 1.74,0.58,3,Volvic,0.0,0,Water
-751.42,34.39,23,Jack Daniels,0.05,4,Alcoholic Beverages
+751.42,34.39,23,Jack Daniels,0.05,2,Alcoholic Beverages
 57.04,14.26,4,Bacardi,0.0,0,Alcoholic Beverages
 6.27,0.57,11,Volvic,0.0,0,Water
 14.98,1.07,14,Gerolsteiner,0.0,0,Water
@@ -2508,10 +2500,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 15.04,1.88,8,Jever,0.0,0,Alcoholic Beverages
 19.08,1.59,12,Granini Apple,0.0,0,Juices
 19.98,2.22,9,Red Bull,0.0,0,Soft Drinks
-820.54,29.41,31,Jack Daniels,0.1,4,Alcoholic Beverages
+820.54,29.41,31,Jack Daniels,0.1,2,Alcoholic Beverages
 11.88,0.99,12,Apollinaris,0.0,0,Water
 7.98,0.6,14,Apollinaris,0.05,0,Water
-1010.16,14.03,80,Merlot,0.1,4,Alcoholic Beverages
+1010.16,14.03,80,Merlot,0.1,2,Alcoholic Beverages
 14.36,2.52,6,Cranberry Juice,0.05,0,Juices
 18.45,1.23,15,Fanta,0.0,0,Soft Drinks
 4.46,2.48,2,Rockstar,0.1,0,Soft Drinks
@@ -2523,7 +2515,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 298.16,4.09,81,Tomato Juice,0.1,0,Juices
 26.72,1.31,24,Selters,0.15,0,Water
 45.98,2.2,22,Tomato Juice,0.05,0,Juices
-1228.64,23.95,54,Johnnie Walker,0.05,4,Alcoholic Beverages
+1228.64,23.95,54,Johnnie Walker,0.05,2,Alcoholic Beverages
 42.28,3.02,14,Passion Fruit Juice,0.0,0,Juices
 145.64,3.65,42,Mango Juice,0.05,0,Juices
 0.47,0.47,1,Selters,0.0,0,Water
@@ -2570,7 +2562,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.52,1.38,4,Volvic Touch,0.0,0,Water
 76.95,2.25,38,Tomato Juice,0.1,0,Juices
 3.84,0.96,4,Apollinaris,0.0,0,Water
-703.5,50.25,14,Jack Daniels,0.0,4,Alcoholic Beverages
+703.5,50.25,14,Jack Daniels,0.0,2,Alcoholic Beverages
 20.4,1.13,19,Schwip Schwap,0.05,0,Soft Drinks
 231.8,3.03,90,Rauch Multivitamin,0.15,0,Juices
 111.13,1.47,84,Evian,0.1,0,Water
@@ -2583,7 +2575,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 16.55,3.31,5,Monster,0.0,0,Soft Drinks
 256.21,3.1,87,Mango Juice,0.05,0,Juices
 69.92,1.84,40,Tomato Juice,0.05,0,Juices
-846.66,10.57,89,Merlot,0.1,4,Alcoholic Beverages
+846.66,10.57,89,Merlot,0.1,2,Alcoholic Beverages
 120.72,2.63,51,Cranberry Juice,0.1,0,Juices
 38.83,0.67,61,Vittel,0.05,0,Water
 43.54,3.11,14,Passion Fruit Juice,0.0,0,Juices
@@ -2603,7 +2595,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.46,3.23,2,Tomato Juice,0.0,0,Juices
 191.88,3.28,65,Mango Juice,0.1,0,Juices
 4.75,1.32,4,Volvic Touch,0.1,0,Water
-769.84,19.27,47,Jack Daniels,0.15,4,Alcoholic Beverages
+769.84,19.27,47,Jack Daniels,0.15,2,Alcoholic Beverages
 2.14,1.07,2,Coca-Cola,0.0,0,Soft Drinks
 9.48,1.58,6,Pepsi,0.0,0,Soft Drinks
 35.74,1.71,22,Kölsch,0.05,0,Alcoholic Beverages
@@ -2618,7 +2610,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.12,3.02,6,Passion Fruit Juice,0.0,0,Juices
 4.64,0.58,8,Volvic,0.0,0,Water
 9.63,3.21,3,Mango Juice,0.0,0,Juices
-589.19,44.3,14,Veuve Clicquot,0.05,4,Alcoholic Beverages
+589.19,44.3,14,Veuve Clicquot,0.05,2,Alcoholic Beverages
 160.65,2.7,70,Fritz-Kola,0.15,0,Soft Drinks
 3.6,1.8,2,Hohes C Orange,0.0,0,Juices
 17.82,1.98,9,Erdinger Weißbier,0.0,0,Alcoholic Beverages
@@ -2659,11 +2651,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.08,0.59,12,Vittel,0.0,0,Water
 214.89,2.6,87,Mango Juice,0.05,0,Juices
 188.16,13.44,14,Bacardi,0.0,0,Alcoholic Beverages
-519.17,14.77,37,Havana Club,0.05,4,Alcoholic Beverages
+519.17,14.77,37,Havana Club,0.05,2,Alcoholic Beverages
 0.89,0.89,1,San Pellegrino,0.0,0,Water
 6.72,0.56,12,Sprite,0.0,0,Soft Drinks
 6.84,0.57,12,Volvic,0.0,0,Water
-1236.38,14.31,96,Chardonnay,0.1,4,Alcoholic Beverages
+1236.38,14.31,96,Chardonnay,0.1,2,Alcoholic Beverages
 10.74,0.87,13,Fanta,0.05,0,Soft Drinks
 12.3,2.05,6,Fritz-Kola,0.0,0,Soft Drinks
 11.88,0.99,12,Apollinaris,0.0,0,Water
@@ -2693,7 +2685,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.6,1.46,10,Volvic Touch,0.0,0,Water
 331.53,3.98,98,Passion Fruit Juice,0.15,0,Juices
 2.68,2.98,1,Passion Fruit Juice,0.1,0,Juices
-588.2,58.82,10,Moët & Chandon,0.0,4,Alcoholic Beverages
+588.2,58.82,10,Moët & Chandon,0.0,2,Alcoholic Beverages
 74.28,1.31,63,Granini Apple,0.1,0,Juices
 79.18,1.06,83,San Pellegrino,0.1,0,Water
 88.46,1.94,48,Fritz-Kola,0.05,0,Soft Drinks
@@ -2718,7 +2710,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.45,1.69,5,Granini Apple,0.0,0,Juices
 52.47,1.1,53,Schwip Schwap,0.1,0,Soft Drinks
 147.84,13.44,11,Bacardi,0.0,0,Alcoholic Beverages
-823.48,58.82,14,Moët & Chandon,0.0,4,Alcoholic Beverages
+823.48,58.82,14,Moët & Chandon,0.0,2,Alcoholic Beverages
 74.89,0.99,89,Fanta,0.15,0,Soft Drinks
 4449.11,69.79,75,Veuve Clicquot,0.15,3,Alcoholic Beverages
 0.96,0.96,1,Mountain Dew,0.0,0,Soft Drinks
@@ -2735,7 +2727,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 33.3,1.0,37,Krombacher,0.1,0,Alcoholic Beverages
 16.8,1.12,15,Augustiner,0.0,0,Alcoholic Beverages
 7.68,0.96,8,Apollinaris,0.0,0,Water
-776.4,51.76,15,Jack Daniels,0.0,4,Alcoholic Beverages
+776.4,51.76,15,Jack Daniels,0.0,2,Alcoholic Beverages
 103.83,34.61,3,Tanqueray,0.0,0,Alcoholic Beverages
 14.88,1.24,12,Schwip Schwap,0.0,0,Soft Drinks
 1.88,0.47,4,Selters,0.0,0,Water
@@ -2743,7 +2735,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 16.55,3.31,5,Monster,0.0,0,Soft Drinks
 2.08,1.04,2,Gerolsteiner,0.0,0,Water
 36.25,1.59,24,Tomato Juice,0.05,0,Juices
-647.02,58.82,11,Moët & Chandon,0.0,4,Alcoholic Beverages
+647.02,58.82,11,Moët & Chandon,0.0,2,Alcoholic Beverages
 1.31,1.31,1,Evian,0.0,0,Water
 15.58,0.4,41,Gerolsteiner,0.05,0,Water
 7.49,1.07,7,Coca-Cola,0.0,0,Soft Drinks
@@ -2758,7 +2750,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 93.24,1.4,74,Vio Wasser,0.1,0,Water
 19.9,1.99,10,Fritz-Kola,0.0,0,Soft Drinks
 29.82,2.13,14,Club Mate,0.0,0,Soft Drinks
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 9.15,0.61,15,Mezzo Mix,0.0,0,Soft Drinks
 1.08,0.38,3,San Pellegrino,0.05,0,Water
 25.41,2.31,11,Rauch Multivitamin,0.0,0,Juices
@@ -2810,13 +2802,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 325.63,3.73,97,Cranberry Juice,0.1,0,Juices
 28.7,1.59,19,Club Mate,0.05,0,Soft Drinks
 484.54,34.61,14,Tanqueray,0.0,0,Alcoholic Beverages
-527.66,37.69,14,Johnnie Walker,0.0,4,Alcoholic Beverages
+527.66,37.69,14,Johnnie Walker,0.0,2,Alcoholic Beverages
 14.49,1.61,9,Vio Wasser,0.0,0,Water
-703.5,50.25,14,Jack Daniels,0.0,4,Alcoholic Beverages
+703.5,50.25,14,Jack Daniels,0.0,2,Alcoholic Beverages
 126.99,1.8,83,Tomato Juice,0.15,0,Juices
 4.95,0.55,9,Volvic,0.0,0,Water
 13.32,3.33,4,Tomato Juice,0.0,0,Juices
-10111.96,113.49,99,Moët & Chandon,0.1,2,Alcoholic Beverages
 219.76,2.78,93,Rauch Multivitamin,0.15,0,Juices
 8.1,1.0,9,Evian,0.1,0,Water
 21.61,0.91,25,Pepsi,0.05,0,Soft Drinks
@@ -2859,12 +2850,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 96.39,1.19,90,Schwip Schwap,0.1,0,Soft Drinks
 4.41,0.49,9,Selters,0.0,0,Water
 69.48,1.59,46,Hohes C Orange,0.05,0,Juices
-499.1,35.65,14,Tanqueray,0.0,4,Alcoholic Beverages
+499.1,35.65,14,Tanqueray,0.0,2,Alcoholic Beverages
 21.9,2.19,10,Club Mate,0.0,0,Soft Drinks
 11.27,1.61,7,Vio Wasser,0.0,0,Water
 12.56,0.93,15,Pepsi,0.1,0,Soft Drinks
 6.23,0.89,7,San Pellegrino,0.0,0,Water
-839.16,31.08,30,Havana Club,0.1,4,Alcoholic Beverages
+839.16,31.08,30,Havana Club,0.1,2,Alcoholic Beverages
 33.03,3.67,9,Cranberry Juice,0.0,0,Juices
 23.24,1.66,14,Vio Wasser,0.0,0,Water
 75.6,1.0,84,Krombacher,0.1,0,Alcoholic Beverages
@@ -2923,7 +2914,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 4.92,1.64,3,Granini Apple,0.0,0,Juices
 124.42,1.92,72,Granini Apple,0.1,0,Juices
 57.47,1.21,50,Volvic Touch,0.05,0,Water
-1124.6,112.46,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1124.6,112.46,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 38.52,3.21,12,Monster,0.0,0,Soft Drinks
 219.7,3.09,79,Mango Juice,0.1,0,Juices
 158.26,3.14,56,Monster,0.1,0,Soft Drinks
@@ -2940,10 +2931,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.78,2.26,3,Club Mate,0.0,0,Soft Drinks
 4.64,1.16,4,Fanta,0.0,0,Soft Drinks
 11.94,1.99,6,Jever,0.0,0,Alcoholic Beverages
-562.3,112.46,5,Veuve Clicquot,0.0,4,Alcoholic Beverages
+562.3,112.46,5,Veuve Clicquot,0.0,2,Alcoholic Beverages
 176.8,2.6,80,Augustiner,0.15,0,Alcoholic Beverages
 1.86,0.93,2,Kölsch,0.0,0,Alcoholic Beverages
-1106.1,30.64,38,Johnnie Walker,0.05,4,Alcoholic Beverages
+1106.1,30.64,38,Johnnie Walker,0.05,2,Alcoholic Beverages
 1.71,1.71,1,Vio Wasser,0.0,0,Water
 11.72,2.93,4,Passion Fruit Juice,0.0,0,Juices
 114.95,2.06,62,Erdinger Weißbier,0.1,0,Alcoholic Beverages
@@ -2980,7 +2971,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.24,1.31,4,Evian,0.0,0,Water
 1.05,1.05,1,Warsteiner,0.0,0,Alcoholic Beverages
 74.86,1.97,40,Club Mate,0.05,0,Soft Drinks
-0.46,0.46,1,Selters,0.0,0,Water
 32.35,2.27,15,Monster,0.05,0,Soft Drinks
 6.5,0.57,12,Fanta,0.05,0,Soft Drinks
 62.72,4.48,14,Merlot,0.0,0,Alcoholic Beverages
@@ -2999,7 +2989,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.81,1.71,11,Vio Wasser,0.0,0,Water
 19.42,1.46,14,Granini Apple,0.05,0,Juices
 32.08,0.99,36,Vittel,0.1,0,Water
-499.1,35.65,14,Tanqueray,0.0,4,Alcoholic Beverages
+499.1,35.65,14,Tanqueray,0.0,2,Alcoholic Beverages
 14.4,1.8,8,Hohes C Orange,0.0,0,Juices
 16.06,1.46,11,Volvic Touch,0.0,0,Water
 43.03,3.31,13,Monster,0.0,0,Soft Drinks
@@ -3018,7 +3008,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.1,1.42,5,Volvic Touch,0.0,0,Water
 14.4,0.96,15,Mountain Dew,0.0,0,Soft Drinks
 12.78,1.42,9,Volvic Touch,0.0,0,Water
-954.09,106.01,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+954.09,106.01,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 14.68,3.67,4,Cranberry Juice,0.0,0,Juices
 150.96,12.58,12,Havana Club,0.0,0,Alcoholic Beverages
 13.24,3.31,4,Mango Juice,0.0,0,Juices
@@ -3027,7 +3017,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 120.15,13.35,9,Havana Club,0.0,0,Alcoholic Beverages
 10.23,0.93,11,Mountain Dew,0.0,0,Soft Drinks
 6.37,0.49,13,Selters,0.0,0,Water
-1317.87,16.27,90,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+1317.87,16.27,90,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 15.24,1.27,12,Schwip Schwap,0.0,0,Soft Drinks
 93.48,1.64,60,Erdinger Weißbier,0.05,0,Alcoholic Beverages
 6.04,3.02,2,Passion Fruit Juice,0.0,0,Juices
@@ -3107,14 +3097,14 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.84,1.23,8,Fanta,0.0,0,Soft Drinks
 27.59,1.21,24,San Pellegrino,0.05,0,Water
 18.66,3.11,6,Passion Fruit Juice,0.0,0,Juices
-600.24,12.61,56,Riesling,0.15,4,Alcoholic Beverages
+600.24,12.61,56,Riesling,0.15,2,Alcoholic Beverages
 6.12,2.04,3,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 415.56,20.83,21,Jack Daniels,0.05,0,Alcoholic Beverages
 399.77,57.11,7,Moët & Chandon,0.0,0,Alcoholic Beverages
 12.09,0.93,13,Mountain Dew,0.0,0,Soft Drinks
 1.86,0.62,3,Vittel,0.0,0,Water
 47.11,2.61,19,Club Mate,0.05,0,Soft Drinks
-954.09,106.01,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+954.09,106.01,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 11.94,1.99,6,Jever,0.0,0,Alcoholic Beverages
 17.76,2.22,8,Red Bull,0.0,0,Soft Drinks
 6.9,0.46,15,Selters,0.0,0,Water
@@ -3189,7 +3179,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.78,1.63,6,Krombacher,0.0,0,Alcoholic Beverages
 72.45,8.05,9,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 14.49,1.61,9,Vio Wasser,0.0,0,Water
-516.19,33.96,16,Jack Daniels,0.05,4,Alcoholic Beverages
+516.19,33.96,16,Jack Daniels,0.05,2,Alcoholic Beverages
 1.63,1.63,1,Krombacher,0.0,0,Alcoholic Beverages
 16.33,1.91,9,Monster,0.05,0,Soft Drinks
 17.14,8.57,2,Sauvignon Blanc,0.0,0,Alcoholic Beverages
@@ -3206,7 +3196,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 0.94,0.33,3,Selters,0.05,0,Water
 9.24,1.54,6,Krombacher,0.0,0,Alcoholic Beverages
 370.5,15.6,25,Bacardi,0.05,0,Alcoholic Beverages
-1714.18,30.72,62,Veuve Clicquot,0.1,4,Alcoholic Beverages
+1714.18,30.72,62,Veuve Clicquot,0.1,2,Alcoholic Beverages
 20.12,5.03,4,Chardonnay,0.0,0,Alcoholic Beverages
 22.5,0.64,37,Apollinaris,0.05,0,Water
 1.86,0.49,4,Vittel,0.05,0,Water
@@ -3215,13 +3205,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 112.34,1.58,79,Evian,0.1,0,Water
 0.96,0.96,1,Mountain Dew,0.0,0,Soft Drinks
 3.44,0.86,4,San Pellegrino,0.0,0,Water
-1648.08,26.16,70,Bacardi,0.1,4,Alcoholic Beverages
+1648.08,26.16,70,Bacardi,0.1,2,Alcoholic Beverages
 23.74,1.19,21,Granini Apple,0.05,0,Juices
 8.48,2.12,4,Fritz-Kola,0.0,0,Soft Drinks
 68.17,1.84,39,Rauch Multivitamin,0.05,0,Juices
 1.8,0.63,3,Vittel,0.05,0,Water
 8.8,1.1,8,Coca-Cola,0.0,0,Soft Drinks
-504.04,10.77,52,Merlot,0.1,4,Alcoholic Beverages
+504.04,10.77,52,Merlot,0.1,2,Alcoholic Beverages
 8.25,0.55,15,Sprite,0.0,0,Soft Drinks
 10.23,0.93,11,Apollinaris,0.0,0,Water
 9.66,1.38,7,Volvic Touch,0.0,0,Water
@@ -3235,7 +3225,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.22,2.22,1,Red Bull,0.0,0,Soft Drinks
 2.28,2.53,1,Mango Juice,0.1,0,Juices
 15.18,1.38,11,Volvic Touch,0.0,0,Water
-766.61,28.82,28,Jack Daniels,0.05,4,Alcoholic Beverages
+766.61,28.82,28,Jack Daniels,0.05,2,Alcoholic Beverages
 20.43,2.27,9,Rockstar,0.0,0,Soft Drinks
 4.64,1.16,4,Fanta,0.0,0,Soft Drinks
 55.44,1.1,56,Fanta,0.1,0,Soft Drinks
@@ -3262,28 +3252,28 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 30.32,1.52,21,Krombacher,0.05,0,Alcoholic Beverages
 73.69,0.89,92,Gerolsteiner,0.1,0,Water
 80.46,1.49,60,Fanta,0.1,0,Soft Drinks
-776.4,51.76,15,Jack Daniels,0.0,4,Alcoholic Beverages
+776.4,51.76,15,Jack Daniels,0.0,2,Alcoholic Beverages
 9.49,0.37,27,Selters,0.05,0,Water
 19.32,1.61,12,Vio Wasser,0.0,0,Water
 2.82,0.47,6,Selters,0.0,0,Water
 8.55,0.57,15,Volvic,0.0,0,Water
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 134.4,33.6,4,Tanqueray,0.0,0,Alcoholic Beverages
 3.22,0.46,7,Selters,0.0,0,Water
 20.55,1.37,15,Beck's,0.0,0,Alcoholic Beverages
 8.82,1.26,7,Evian,0.0,0,Water
 188.7,12.58,15,Havana Club,0.0,0,Alcoholic Beverages
 4.28,1.07,4,Gerolsteiner,0.0,0,Water
-655.11,12.55,58,Riesling,0.1,4,Alcoholic Beverages
+655.11,12.55,58,Riesling,0.1,2,Alcoholic Beverages
 12.3,1.23,10,Evian,0.0,0,Water
 27.18,3.02,9,Passion Fruit Juice,0.0,0,Juices
 47.88,0.9,56,Sprite,0.05,0,Soft Drinks
 30.03,2.31,13,Rauch Multivitamin,0.0,0,Juices
-866.93,13.42,68,Merlot,0.05,4,Alcoholic Beverages
+866.93,13.42,68,Merlot,0.05,2,Alcoholic Beverages
 8.2,2.05,4,Fritz-Kola,0.0,0,Soft Drinks
 18.12,3.02,6,Passion Fruit Juice,0.0,0,Juices
 173.88,2.1,92,Vio Wasser,0.1,0,Water
-957.0,11.07,91,Chardonnay,0.05,4,Alcoholic Beverages
+957.0,11.07,91,Chardonnay,0.05,2,Alcoholic Beverages
 3.3,0.55,6,Volvic,0.0,0,Water
 3.85,0.55,7,Volvic,0.0,0,Water
 11.97,1.71,7,Vio Wasser,0.0,0,Water
@@ -3341,7 +3331,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 21.86,0.59,39,Mezzo Mix,0.05,0,Soft Drinks
 47.71,3.67,13,Cranberry Juice,0.0,0,Juices
 7.86,1.31,6,Evian,0.0,0,Water
-536.69,48.79,11,Jack Daniels,0.0,4,Alcoholic Beverages
+536.69,48.79,11,Jack Daniels,0.0,2,Alcoholic Beverages
 34.3,2.45,14,Rauch Multivitamin,0.0,0,Juices
 57.9,2.65,23,Cranberry Juice,0.05,0,Juices
 19.13,1.06,19,Hohes C Orange,0.05,0,Juices
@@ -3375,7 +3365,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.09,1.19,11,Fanta,0.0,0,Soft Drinks
 45.27,5.03,9,Chardonnay,0.0,0,Alcoholic Beverages
 5.05,1.01,5,Gerolsteiner,0.0,0,Water
-1076.0,22.14,54,Jack Daniels,0.1,4,Alcoholic Beverages
+1076.0,22.14,54,Jack Daniels,0.1,2,Alcoholic Beverages
 139.59,1.65,94,Beck's,0.1,0,Alcoholic Beverages
 180.61,3.32,64,Mango Juice,0.15,0,Juices
 15.3,1.53,10,Pepsi,0.0,0,Soft Drinks
@@ -3415,7 +3405,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 79.25,1.11,84,Selters,0.15,0,Water
 12.6,1.8,7,Hohes C Orange,0.0,0,Juices
 6.11,0.47,13,Selters,0.0,0,Water
-1091.9,109.19,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1091.9,109.19,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 12.87,0.99,13,Mountain Dew,0.0,0,Soft Drinks
 226.04,2.76,91,Tomato Juice,0.1,0,Juices
 16.38,1.26,13,Evian,0.0,0,Water
@@ -3434,7 +3424,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.46,3.46,1,Cranberry Juice,0.0,0,Juices
 13.65,0.91,15,San Pellegrino,0.0,0,Water
 9.06,3.02,3,Passion Fruit Juice,0.0,0,Juices
-911.7,10.13,100,Chardonnay,0.1,4,Alcoholic Beverages
+911.7,10.13,100,Chardonnay,0.1,2,Alcoholic Beverages
 21.56,1.54,14,Krombacher,0.0,0,Alcoholic Beverages
 8.84,0.49,19,Vittel,0.05,0,Water
 58.4,1.03,63,Evian,0.1,0,Water
@@ -3445,13 +3435,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 4.27,0.61,7,Mezzo Mix,0.0,0,Soft Drinks
 3.6,1.8,2,Hohes C Orange,0.0,0,Juices
 6.47,2.27,3,Rauch Multivitamin,0.05,0,Juices
-655.14,109.19,6,Veuve Clicquot,0.0,4,Alcoholic Beverages
+655.14,109.19,6,Veuve Clicquot,0.0,2,Alcoholic Beverages
 13.77,1.53,9,Pepsi,0.0,0,Soft Drinks
 3.21,3.21,1,Monster,0.0,0,Soft Drinks
 127.71,2.58,55,Kölsch,0.1,0,Alcoholic Beverages
 4.3,0.86,5,San Pellegrino,0.0,0,Water
 116.2,2.78,44,Cranberry Juice,0.05,0,Juices
-954.09,106.01,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+954.09,106.01,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 365.9,36.59,10,Johnnie Walker,0.0,0,Alcoholic Beverages
 10.8,1.8,6,Hohes C Orange,0.0,0,Juices
 13.91,1.07,13,Gerolsteiner,0.0,0,Water
@@ -3524,7 +3514,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.01,1.01,1,Gerolsteiner,0.0,0,Water
 6.45,0.69,11,Pepsi,0.15,0,Soft Drinks
 16.38,1.26,13,Evian,0.0,0,Water
-719.74,10.98,69,Chardonnay,0.05,4,Alcoholic Beverages
+719.74,10.98,69,Chardonnay,0.05,2,Alcoholic Beverages
 13.57,0.68,21,Sprite,0.05,0,Soft Drinks
 20.79,2.31,9,Rauch Multivitamin,0.0,0,Juices
 5.04,0.56,9,Sprite,0.0,0,Soft Drinks
@@ -3536,7 +3526,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.91,0.73,9,Mezzo Mix,0.1,0,Soft Drinks
 258.3,2.87,100,Rauch Multivitamin,0.1,0,Juices
 18.12,3.02,6,Passion Fruit Juice,0.0,0,Juices
-812.71,12.37,73,Chardonnay,0.1,4,Alcoholic Beverages
+812.71,12.37,73,Chardonnay,0.1,2,Alcoholic Beverages
 8.25,0.55,15,Sprite,0.0,0,Soft Drinks
 3.03,1.01,3,Gerolsteiner,0.0,0,Water
 14.31,1.59,9,Krombacher,0.0,0,Alcoholic Beverages
@@ -3548,7 +3538,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 88.55,8.05,11,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 71.38,2.89,26,Tomato Juice,0.05,0,Juices
 155.38,2.08,83,Krombacher,0.1,0,Alcoholic Beverages
-556.41,10.91,60,Sauvignon Blanc,0.15,4,Alcoholic Beverages
+556.41,10.91,60,Sauvignon Blanc,0.15,2,Alcoholic Beverages
 15.96,1.33,12,Beck's,0.0,0,Alcoholic Beverages
 177.6,35.52,5,Johnnie Walker,0.0,0,Alcoholic Beverages
 21.41,0.61,39,Schwip Schwap,0.1,0,Soft Drinks
@@ -3636,7 +3626,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.8,0.92,7,Coca-Cola,0.1,0,Soft Drinks
 175.64,2.87,68,Monster,0.1,0,Soft Drinks
 6.62,3.31,2,Monster,0.0,0,Soft Drinks
-881.05,11.89,78,Merlot,0.05,4,Alcoholic Beverages
+881.05,11.89,78,Merlot,0.05,2,Alcoholic Beverages
 4.3,0.86,5,San Pellegrino,0.0,0,Water
 12.25,2.45,5,Rauch Multivitamin,0.0,0,Juices
 2887.05,54.37,59,Veuve Clicquot,0.1,1,Alcoholic Beverages
@@ -3664,7 +3654,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.45,0.98,37,Pepsi,0.05,0,Soft Drinks
 4470.4,55.95,94,Johnnie Walker,0.15,3,Alcoholic Beverages
 142.6,14.26,10,Bacardi,0.0,0,Alcoholic Beverages
-603.0,50.25,12,Jack Daniels,0.0,4,Alcoholic Beverages
+603.0,50.25,12,Jack Daniels,0.0,2,Alcoholic Beverages
 11.68,1.46,8,Volvic Touch,0.0,0,Water
 12.61,2.12,7,Hohes C Orange,0.15,0,Juices
 15.98,0.58,29,Mezzo Mix,0.05,0,Soft Drinks
@@ -3678,7 +3668,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 23.4,1.8,13,Hohes C Orange,0.0,0,Juices
 1.2,1.2,1,Schwip Schwap,0.0,0,Soft Drinks
 32.51,0.84,43,Vittel,0.1,0,Water
-1574.44,112.46,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1574.44,112.46,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 10.56,0.96,11,Apollinaris,0.0,0,Water
 41.02,1.27,34,Jever,0.05,0,Alcoholic Beverages
 1.96,0.49,4,Selters,0.0,0,Water
@@ -3716,7 +3706,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 206.66,2.58,89,Hohes C Orange,0.1,0,Juices
 13.24,3.31,4,Monster,0.0,0,Soft Drinks
 210.17,3.17,78,Passion Fruit Juice,0.15,0,Juices
-655.14,109.19,6,Veuve Clicquot,0.0,4,Alcoholic Beverages
+655.14,109.19,6,Veuve Clicquot,0.0,2,Alcoholic Beverages
 6.71,0.61,11,Mezzo Mix,0.0,0,Soft Drinks
 103.14,1.91,60,Evian,0.1,0,Water
 16.39,1.49,11,Pepsi,0.0,0,Soft Drinks
@@ -3753,7 +3743,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 51.9,3.46,15,Cranberry Juice,0.0,0,Juices
 14.28,2.04,7,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 26.25,1.75,15,Hohes C Orange,0.0,0,Juices
-739.3,9.06,96,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+739.3,9.06,96,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 51.45,3.43,15,Tomato Juice,0.0,0,Juices
 0.58,0.58,1,Volvic,0.0,0,Water
 26.48,3.31,8,Monster,0.0,0,Soft Drinks
@@ -3769,7 +3759,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.18,5.18,1,Riesling,0.0,0,Alcoholic Beverages
 111.38,1.25,99,Pepsi,0.1,0,Soft Drinks
 79.47,8.83,9,Sauvignon Blanc,0.0,0,Alcoholic Beverages
-1568.43,47.1,37,Johnnie Walker,0.1,4,Alcoholic Beverages
+1568.43,47.1,37,Johnnie Walker,0.1,2,Alcoholic Beverages
 10.7,1.07,10,Gerolsteiner,0.0,0,Water
 6.72,0.96,7,Apollinaris,0.0,0,Water
 8.16,1.02,8,Warsteiner,0.0,0,Alcoholic Beverages
@@ -3816,7 +3806,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.36,0.53,12,Sprite,0.0,0,Soft Drinks
 66.38,1.25,59,Pepsi,0.1,0,Soft Drinks
 111.45,2.03,61,Warsteiner,0.1,0,Alcoholic Beverages
-1060.1,106.01,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1060.1,106.01,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 9.54,1.59,6,Granini Apple,0.0,0,Juices
 6.4,0.64,10,Vittel,0.0,0,Water
 15.47,2.21,7,Rockstar,0.0,0,Soft Drinks
@@ -3898,7 +3888,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.92,0.49,8,Selters,0.0,0,Water
 433.34,91.23,5,Moët & Chandon,0.05,0,Alcoholic Beverages
 11.75,2.35,5,Red Bull,0.0,0,Soft Drinks
-1686.9,112.46,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1686.9,112.46,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 89.3,2.0,47,Fritz-Kola,0.05,0,Soft Drinks
 12.25,1.75,7,Hohes C Orange,0.0,0,Juices
 6.72,0.56,12,Vittel,0.0,0,Water
@@ -3913,7 +3903,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.92,0.96,2,Apollinaris,0.0,0,Water
 21.58,1.66,13,Vio Wasser,0.0,0,Water
 118.87,2.91,43,Red Bull,0.05,0,Soft Drinks
-1655.79,37.89,46,Moët & Chandon,0.05,4,Alcoholic Beverages
+1655.79,37.89,46,Moët & Chandon,0.05,2,Alcoholic Beverages
 132.19,1.53,96,Volvic Touch,0.1,0,Water
 12.46,0.89,14,San Pellegrino,0.0,0,Water
 127.86,2.18,69,Hohes C Orange,0.15,0,Juices
@@ -3960,7 +3950,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.12,1.64,8,Granini Apple,0.0,0,Juices
 34.65,2.31,15,Rauch Multivitamin,0.0,0,Juices
 9.66,1.38,7,Volvic Touch,0.0,0,Water
-742.07,106.01,7,Veuve Clicquot,0.0,4,Alcoholic Beverages
+742.07,106.01,7,Veuve Clicquot,0.0,2,Alcoholic Beverages
 4.77,1.59,3,Granini Apple,0.0,0,Juices
 2.28,0.57,4,Volvic,0.0,0,Water
 6.55,1.31,5,Evian,0.0,0,Water
@@ -3969,7 +3959,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.49,0.61,9,Mezzo Mix,0.0,0,Soft Drinks
 5.58,0.93,6,Mountain Dew,0.0,0,Soft Drinks
 13.44,0.96,14,Apollinaris,0.0,0,Water
-908.7,60.58,15,Moët & Chandon,0.0,4,Alcoholic Beverages
+908.7,60.58,15,Moët & Chandon,0.0,2,Alcoholic Beverages
 40.24,5.03,8,Chardonnay,0.0,0,Alcoholic Beverages
 18.47,0.72,27,Evian,0.05,0,Water
 13.52,1.04,13,Coca-Cola,0.0,0,Soft Drinks
@@ -4011,7 +4001,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 93.45,13.35,7,Havana Club,0.0,0,Alcoholic Beverages
 10.57,1.51,7,Beck's,0.0,0,Alcoholic Beverages
 1.88,1.88,1,Jever,0.0,0,Alcoholic Beverages
-7724.08,86.69,99,Moët & Chandon,0.1,2,Alcoholic Beverages
 22.44,2.04,11,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 16.2,1.8,9,Hohes C Orange,0.0,0,Juices
 4.83,1.61,3,Vio Wasser,0.0,0,Water
@@ -4049,7 +4038,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 12.87,0.99,13,Apollinaris,0.0,0,Water
 113.22,1.85,68,Augustiner,0.1,0,Alcoholic Beverages
 12.72,1.03,13,Kölsch,0.05,0,Alcoholic Beverages
-1686.9,112.46,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1686.9,112.46,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 16.1,1.61,10,Vio Wasser,0.0,0,Water
 14.31,1.59,9,Krombacher,0.0,0,Alcoholic Beverages
 27.68,3.46,8,Cranberry Juice,0.0,0,Juices
@@ -4063,9 +4052,9 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 76.53,1.52,53,Hohes C Orange,0.05,0,Juices
 24.15,1.61,15,Vio Wasser,0.0,0,Water
 1.77,0.59,3,Vittel,0.0,0,Water
-521.36,11.2,49,Sauvignon Blanc,0.05,4,Alcoholic Beverages
+521.36,11.2,49,Sauvignon Blanc,0.05,2,Alcoholic Beverages
 177.48,3.4,58,Mango Juice,0.1,0,Juices
-1538.1,34.18,50,Tanqueray,0.1,4,Alcoholic Beverages
+1538.1,34.18,50,Tanqueray,0.1,2,Alcoholic Beverages
 65.21,2.08,33,Fritz-Kola,0.05,0,Soft Drinks
 15.55,0.72,24,Schwip Schwap,0.1,0,Soft Drinks
 5.94,0.99,6,Apollinaris,0.0,0,Water
@@ -4132,7 +4121,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.8,3.56,5,Cranberry Juice,0.0,0,Juices
 4.28,1.07,4,Gerolsteiner,0.0,0,Water
 224.72,2.85,83,Tomato Juice,0.05,0,Juices
-1590.15,106.01,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1590.15,106.01,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 7.92,0.99,8,Apollinaris,0.0,0,Water
 9.09,1.01,9,Gerolsteiner,0.0,0,Water
 91.2,2.4,40,Cranberry Juice,0.05,0,Juices
@@ -4195,7 +4184,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 23.44,2.93,8,Passion Fruit Juice,0.0,0,Juices
 59.78,8.54,7,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 34.21,3.11,11,Passion Fruit Juice,0.0,0,Juices
-502.84,7.9,67,Merlot,0.05,4,Alcoholic Beverages
+502.84,7.9,67,Merlot,0.05,2,Alcoholic Beverages
 414.08,51.76,8,Jack Daniels,0.0,0,Alcoholic Beverages
 34.45,0.74,49,Sprite,0.05,0,Soft Drinks
 1.02,1.02,1,Warsteiner,0.0,0,Alcoholic Beverages
@@ -4265,11 +4254,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 67.8,0.81,93,Selters,0.1,0,Water
 3.91,2.06,2,Tomato Juice,0.05,0,Juices
 3.61,1.9,2,Fritz-Kola,0.05,0,Soft Drinks
-1734.3,38.54,50,Moët & Chandon,0.1,4,Alcoholic Beverages
+1734.3,38.54,50,Moët & Chandon,0.1,2,Alcoholic Beverages
 2.2,0.55,4,Sprite,0.0,0,Soft Drinks
 5186.99,116.17,47,Moët & Chandon,0.05,3,Alcoholic Beverages
 3.18,1.59,2,Krombacher,0.0,0,Alcoholic Beverages
-982.71,109.19,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+982.71,109.19,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 312.55,3.5,94,Mango Juice,0.05,0,Juices
 46.28,3.56,13,Cranberry Juice,0.0,0,Juices
 347.63,4.34,89,Cranberry Juice,0.1,0,Juices
@@ -4279,7 +4268,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 106.95,35.65,3,Tanqueray,0.0,0,Alcoholic Beverages
 0.66,0.69,1,Mountain Dew,0.05,0,Soft Drinks
 475.67,36.59,13,Johnnie Walker,0.0,0,Alcoholic Beverages
-1700.37,38.47,52,Johnnie Walker,0.15,4,Alcoholic Beverages
+1700.37,38.47,52,Johnnie Walker,0.15,2,Alcoholic Beverages
 13.24,3.31,4,Mango Juice,0.0,0,Juices
 122.09,2.38,54,Rockstar,0.05,0,Soft Drinks
 22.57,0.72,33,Pepsi,0.05,0,Soft Drinks
@@ -4289,7 +4278,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 24.45,1.63,15,Krombacher,0.0,0,Alcoholic Beverages
 5.58,0.93,6,Apollinaris,0.0,0,Water
 50.39,5.09,11,Chardonnay,0.1,0,Alcoholic Beverages
-1228.59,36.95,35,Jack Daniels,0.05,4,Alcoholic Beverages
+1228.59,36.95,35,Jack Daniels,0.05,2,Alcoholic Beverages
 13.95,0.93,15,Kölsch,0.0,0,Alcoholic Beverages
 62.37,1.05,66,Pepsi,0.1,0,Soft Drinks
 16.5,1.1,15,Coca-Cola,0.0,0,Soft Drinks
@@ -4303,7 +4292,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 33.22,3.02,11,Passion Fruit Juice,0.0,0,Juices
 146.75,2.63,62,Fritz-Kola,0.1,0,Soft Drinks
 107.77,8.29,13,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
-636.06,106.01,6,Veuve Clicquot,0.0,4,Alcoholic Beverages
+636.06,106.01,6,Veuve Clicquot,0.0,2,Alcoholic Beverages
 2.05,2.05,1,Fritz-Kola,0.0,0,Soft Drinks
 163.54,12.58,13,Havana Club,0.0,0,Alcoholic Beverages
 4.1,1.08,4,Vio Wasser,0.05,0,Water
@@ -4315,7 +4304,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 55.36,13.84,4,Bacardi,0.0,0,Alcoholic Beverages
 41.43,0.89,49,Vittel,0.05,0,Water
 40.39,1.36,33,Krombacher,0.1,0,Alcoholic Beverages
-0.39,0.41,1,Vittel,0.05,0,Water
 29.79,3.31,9,Monster,0.0,0,Soft Drinks
 171.17,2.09,91,Jever,0.1,0,Alcoholic Beverages
 29.41,0.86,36,Pepsi,0.05,0,Soft Drinks
@@ -4352,15 +4340,15 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 36.57,0.77,50,Schwip Schwap,0.05,0,Soft Drinks
 91.35,1.45,70,Coca-Cola,0.1,0,Soft Drinks
 20.69,0.33,66,Gerolsteiner,0.05,0,Water
-731.12,10.55,77,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+731.12,10.55,77,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 114.22,57.11,2,Moët & Chandon,0.0,0,Alcoholic Beverages
 197.57,3.43,64,Tomato Juice,0.1,0,Juices
 3.93,1.31,3,Evian,0.0,0,Water
 103.68,1.28,90,Evian,0.1,0,Water
-536.69,48.79,11,Jack Daniels,0.0,4,Alcoholic Beverages
+536.69,48.79,11,Jack Daniels,0.0,2,Alcoholic Beverages
 38.89,0.89,46,Mezzo Mix,0.05,0,Soft Drinks
-545.95,109.19,5,Veuve Clicquot,0.0,4,Alcoholic Beverages
-1233.52,25.86,53,Havana Club,0.1,4,Alcoholic Beverages
+545.95,109.19,5,Veuve Clicquot,0.0,2,Alcoholic Beverages
+1233.52,25.86,53,Havana Club,0.1,2,Alcoholic Beverages
 317.77,4.03,83,Rockstar,0.05,0,Soft Drinks
 33.1,3.31,10,Monster,0.0,0,Soft Drinks
 16.8,1.68,10,Pepsi,0.0,0,Soft Drinks
@@ -4437,7 +4425,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.67,0.59,13,Vittel,0.0,0,Water
 11.16,1.86,6,Hohes C Orange,0.0,0,Juices
 6.44,0.46,14,Selters,0.0,0,Water
-634.27,48.79,13,Jack Daniels,0.0,4,Alcoholic Beverages
+634.27,48.79,13,Jack Daniels,0.0,2,Alcoholic Beverages
 169.2,2.35,80,Rauch Multivitamin,0.1,0,Juices
 24.96,3.12,8,Mango Juice,0.0,0,Juices
 12.96,0.62,22,Mountain Dew,0.05,0,Soft Drinks
@@ -4501,11 +4489,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 179.25,2.12,89,Club Mate,0.05,0,Soft Drinks
 46.28,3.56,13,Cranberry Juice,0.0,0,Juices
 3.33,3.33,1,Tomato Juice,0.0,0,Juices
-1263.07,24.36,61,Havana Club,0.15,4,Alcoholic Beverages
+1263.07,24.36,61,Havana Club,0.15,2,Alcoholic Beverages
 29.28,4.88,6,Chardonnay,0.0,0,Alcoholic Beverages
 130.05,1.8,85,Krombacher,0.15,0,Alcoholic Beverages
 1.72,0.86,2,San Pellegrino,0.0,0,Water
-0.35,0.37,1,Vittel,0.05,0,Water
 145.35,2.85,60,Rauch Multivitamin,0.15,0,Juices
 16.05,3.21,5,Monster,0.0,0,Soft Drinks
 475.83,6.22,85,Rotkäppchen Sekt,0.1,0,Alcoholic Beverages
@@ -4587,7 +4574,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.51,0.93,7,Mountain Dew,0.0,0,Soft Drinks
 13.52,1.04,13,Gerolsteiner,0.0,0,Water
 23.85,1.59,15,Krombacher,0.0,0,Alcoholic Beverages
-966.89,20.66,52,Jack Daniels,0.1,4,Alcoholic Beverages
+966.89,20.66,52,Jack Daniels,0.1,2,Alcoholic Beverages
 13.86,2.33,7,Granini Apple,0.15,0,Juices
 110.25,1.75,70,Red Bull,0.1,0,Soft Drinks
 17.66,8.83,2,Sauvignon Blanc,0.0,0,Alcoholic Beverages
@@ -4623,7 +4610,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 16.7,0.53,35,Apollinaris,0.1,0,Water
 1.65,0.55,3,Sprite,0.0,0,Soft Drinks
 11.07,1.23,9,Evian,0.0,0,Water
-1262.44,31.64,42,Moët & Chandon,0.05,4,Alcoholic Beverages
+1262.44,31.64,42,Moët & Chandon,0.05,2,Alcoholic Beverages
 7.92,0.99,8,Mountain Dew,0.0,0,Soft Drinks
 14.24,3.56,4,Cranberry Juice,0.0,0,Juices
 12.3,2.05,6,Fritz-Kola,0.0,0,Soft Drinks
@@ -4708,7 +4695,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 212.8,2.57,92,Granini Apple,0.1,0,Juices
 16.1,1.61,10,Vio Wasser,0.0,0,Water
 193.12,2.84,80,Fritz-Kola,0.15,0,Soft Drinks
-1012.14,112.46,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1012.14,112.46,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 31.2,3.12,10,Mango Juice,0.0,0,Juices
 90.4,1.08,93,Mountain Dew,0.1,0,Soft Drinks
 244.8,3.84,75,Mango Juice,0.15,0,Juices
@@ -4722,13 +4709,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.07,1.69,3,Granini Apple,0.0,0,Juices
 27.99,3.11,9,Passion Fruit Juice,0.0,0,Juices
 90.9,9.09,10,Sauvignon Blanc,0.0,0,Alcoholic Beverages
-683.06,48.79,14,Jack Daniels,0.0,4,Alcoholic Beverages
+683.06,48.79,14,Jack Daniels,0.0,2,Alcoholic Beverages
 124.74,2.1,66,Club Mate,0.1,0,Soft Drinks
 57.04,14.26,4,Bacardi,0.0,0,Alcoholic Beverages
 37.55,0.67,59,Gerolsteiner,0.05,0,Water
 38.88,12.96,3,Havana Club,0.0,0,Alcoholic Beverages
 3.56,3.56,1,Cranberry Juice,0.0,0,Juices
-1390.85,20.07,77,Johnnie Walker,0.1,4,Alcoholic Beverages
+1390.85,20.07,77,Johnnie Walker,0.1,2,Alcoholic Beverages
 34.3,3.43,10,Tomato Juice,0.0,0,Juices
 154.55,2.12,81,Jever,0.1,0,Alcoholic Beverages
 116.64,12.96,9,Havana Club,0.0,0,Alcoholic Beverages
@@ -4745,7 +4732,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.72,1.09,8,Augustiner,0.0,0,Alcoholic Beverages
 211.06,17.09,13,Bacardi,0.05,0,Alcoholic Beverages
 6.46,3.23,2,Tomato Juice,0.0,0,Juices
-757.21,36.23,22,Havana Club,0.05,4,Alcoholic Beverages
+757.21,36.23,22,Havana Club,0.05,2,Alcoholic Beverages
 14.22,1.58,9,Pepsi,0.0,0,Soft Drinks
 7.62,0.56,16,Volvic,0.15,0,Water
 3.48,1.16,3,Fanta,0.0,0,Soft Drinks
@@ -4753,7 +4740,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 42.28,3.02,14,Passion Fruit Juice,0.0,0,Juices
 20.79,2.31,9,Rauch Multivitamin,0.0,0,Juices
 36.83,3.72,11,Mango Juice,0.1,0,Juices
-1166.11,106.01,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1166.11,106.01,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 63.96,1.03,69,Gerolsteiner,0.1,0,Water
 14.98,1.07,14,Gerolsteiner,0.0,0,Water
 273.97,4.17,73,Monster,0.1,0,Soft Drinks
@@ -4815,12 +4802,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.16,0.58,2,Volvic,0.0,0,Water
 24.88,3.11,8,Passion Fruit Juice,0.0,0,Juices
 163.76,2.47,78,Monster,0.15,0,Soft Drinks
-536.69,48.79,11,Jack Daniels,0.0,4,Alcoholic Beverages
+536.69,48.79,11,Jack Daniels,0.0,2,Alcoholic Beverages
 14.4,1.8,8,Hohes C Orange,0.0,0,Juices
 12.84,3.21,4,Mango Juice,0.0,0,Juices
 50.3,5.03,10,Chardonnay,0.0,0,Alcoholic Beverages
 141.22,2.13,78,Volvic Touch,0.15,0,Water
-1099.17,26.55,46,Bacardi,0.1,4,Alcoholic Beverages
+1099.17,26.55,46,Bacardi,0.1,2,Alcoholic Beverages
 106.4,2.57,46,Passion Fruit Juice,0.1,0,Juices
 4.64,1.16,4,Augustiner,0.0,0,Alcoholic Beverages
 2.14,1.07,2,Coca-Cola,0.0,0,Soft Drinks
@@ -4837,7 +4824,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.05,1.61,5,Vio Wasser,0.0,0,Water
 68.8,1.56,49,Mezzo Mix,0.1,0,Soft Drinks
 24.6,1.64,15,Pepsi,0.0,0,Soft Drinks
-950.97,12.03,93,Chardonnay,0.15,4,Alcoholic Beverages
+950.97,12.03,93,Chardonnay,0.15,2,Alcoholic Beverages
 41.4,1.0,46,Pepsi,0.1,0,Soft Drinks
 7.15,0.55,13,Sprite,0.0,0,Soft Drinks
 8.69,1.38,7,Mountain Dew,0.1,0,Soft Drinks
@@ -4846,7 +4833,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 224.92,112.46,2,Veuve Clicquot,0.0,0,Alcoholic Beverages
 1.35,0.71,2,Coca-Cola,0.05,0,Soft Drinks
 22.7,2.27,10,Rockstar,0.0,0,Soft Drinks
-1124.6,112.46,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1124.6,112.46,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 3.31,3.31,1,Monster,0.0,0,Soft Drinks
 18.72,3.12,6,Mango Juice,0.0,0,Juices
 67.2,33.6,2,Tanqueray,0.0,0,Alcoholic Beverages
@@ -4872,7 +4859,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.6,1.46,10,Volvic Touch,0.0,0,Water
 36.59,36.59,1,Johnnie Walker,0.0,0,Alcoholic Beverages
 35.78,0.56,71,Schwip Schwap,0.1,0,Soft Drinks
-554.28,83.35,7,Moët & Chandon,0.05,4,Alcoholic Beverages
+554.28,83.35,7,Moët & Chandon,0.05,2,Alcoholic Beverages
 45.22,3.23,14,Tomato Juice,0.0,0,Juices
 12.54,0.4,33,Vittel,0.05,0,Water
 341.19,4.46,85,Mango Juice,0.1,0,Juices
@@ -4908,7 +4895,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.35,0.89,15,San Pellegrino,0.0,0,Water
 13.41,1.49,9,Pepsi,0.0,0,Soft Drinks
 23.85,1.59,15,Krombacher,0.0,0,Alcoholic Beverages
-831.73,11.27,82,Riesling,0.1,4,Alcoholic Beverages
+831.73,11.27,82,Riesling,0.1,2,Alcoholic Beverages
 4.28,1.07,4,Gerolsteiner,0.0,0,Water
 211.18,2.47,95,Mango Juice,0.1,0,Juices
 14.76,1.23,12,Evian,0.0,0,Water
@@ -4944,7 +4931,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 19.04,2.38,8,Rauch Multivitamin,0.0,0,Juices
 316.4,3.74,94,Cranberry Juice,0.1,0,Juices
 6.3,0.63,10,Mezzo Mix,0.0,0,Soft Drinks
-1012.14,112.46,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1012.14,112.46,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 27.56,2.12,13,Fritz-Kola,0.0,0,Soft Drinks
 19.09,2.87,7,Mango Juice,0.05,0,Juices
 3.64,0.91,4,San Pellegrino,0.0,0,Water
@@ -4971,7 +4958,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 182.37,2.43,79,Granini Apple,0.05,0,Juices
 205.59,68.53,3,Moët & Chandon,0.0,0,Alcoholic Beverages
 9.94,1.42,7,Volvic Touch,0.0,0,Water
-833.11,31.32,28,Bacardi,0.05,4,Alcoholic Beverages
+833.11,31.32,28,Bacardi,0.05,2,Alcoholic Beverages
 248.55,3.61,81,Tomato Juice,0.15,0,Juices
 6.86,0.49,14,Selters,0.0,0,Water
 24.4,4.88,5,Chardonnay,0.0,0,Alcoholic Beverages
@@ -5003,7 +4990,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.1,0.55,2,Volvic,0.0,0,Water
 51.76,51.76,1,Jack Daniels,0.0,0,Alcoholic Beverages
 144.37,2.15,79,Hohes C Orange,0.15,0,Juices
-634.27,48.79,13,Jack Daniels,0.0,4,Alcoholic Beverages
+634.27,48.79,13,Jack Daniels,0.0,2,Alcoholic Beverages
 19.86,3.31,6,Mango Juice,0.0,0,Juices
 207.04,51.76,4,Jack Daniels,0.0,0,Alcoholic Beverages
 33.49,0.75,47,Sprite,0.05,0,Soft Drinks
@@ -5063,7 +5050,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 324.72,4.51,80,Mango Juice,0.1,0,Juices
 17.49,1.59,11,Granini Apple,0.0,0,Juices
 8.4,1.05,8,Warsteiner,0.0,0,Alcoholic Beverages
-899.68,112.46,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+899.68,112.46,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 194.04,3.08,70,Fritz-Kola,0.1,0,Soft Drinks
 11.63,0.36,34,Vittel,0.05,0,Water
 12.57,4.19,3,Riesling,0.0,0,Alcoholic Beverages
@@ -5093,12 +5080,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 141.86,2.22,71,Red Bull,0.1,0,Soft Drinks
 390.91,7.62,57,Rotkäppchen Sekt,0.1,0,Alcoholic Beverages
 4.13,0.59,7,Vittel,0.0,0,Water
-1460.87,29.13,59,Havana Club,0.15,4,Alcoholic Beverages
+1460.87,29.13,59,Havana Club,0.15,2,Alcoholic Beverages
 12.14,0.42,34,Selters,0.15,0,Water
 38.89,0.89,46,Selters,0.05,0,Water
 78.47,2.36,35,Mango Juice,0.05,0,Juices
 5.04,0.63,8,Mezzo Mix,0.0,0,Soft Drinks
-1422.48,23.59,67,Bacardi,0.1,4,Alcoholic Beverages
+1422.48,23.59,67,Bacardi,0.1,2,Alcoholic Beverages
 185.38,14.26,13,Bacardi,0.0,0,Alcoholic Beverages
 37.44,3.12,12,Mango Juice,0.0,0,Juices
 21.2,2.12,10,Fritz-Kola,0.0,0,Soft Drinks
@@ -5155,7 +5142,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.02,2.34,3,Rockstar,0.0,0,Soft Drinks
 36.1,0.95,40,Vio Wasser,0.05,0,Water
 7.7,0.55,14,Volvic,0.0,0,Water
-517.5,25.94,21,Bacardi,0.05,4,Alcoholic Beverages
+517.5,25.94,21,Bacardi,0.05,2,Alcoholic Beverages
 14.28,2.04,7,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 14.28,0.69,23,Sprite,0.1,0,Soft Drinks
 65.39,5.03,13,Chardonnay,0.0,0,Alcoholic Beverages
@@ -5167,14 +5154,14 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 103.68,12.96,8,Havana Club,0.0,0,Alcoholic Beverages
 3.72,1.24,3,Schwip Schwap,0.0,0,Soft Drinks
 167.08,2.73,68,Tomato Juice,0.1,0,Juices
-856.27,10.69,89,Merlot,0.1,4,Alcoholic Beverages
+856.27,10.69,89,Merlot,0.1,2,Alcoholic Beverages
 470.56,58.82,8,Moët & Chandon,0.0,0,Alcoholic Beverages
 21.9,1.46,15,Volvic Touch,0.0,0,Water
 14.88,1.86,8,Hohes C Orange,0.0,0,Juices
 124.35,8.29,15,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 47.71,3.67,13,Cranberry Juice,0.0,0,Juices
 18.98,1.46,13,Volvic Touch,0.0,0,Water
-685.32,57.11,12,Moët & Chandon,0.0,4,Alcoholic Beverages
+685.32,57.11,12,Moët & Chandon,0.0,2,Alcoholic Beverages
 31.2,3.12,10,Mango Juice,0.0,0,Juices
 104.72,1.6,77,Granini Apple,0.15,0,Juices
 5.07,1.69,3,Granini Apple,0.0,0,Juices
@@ -5226,7 +5213,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 78.25,1.26,69,Mountain Dew,0.1,0,Soft Drinks
 24.86,2.26,11,Club Mate,0.0,0,Soft Drinks
 55.94,0.92,64,Vio Wasser,0.05,0,Water
-8257.95,122.34,75,Moët & Chandon,0.1,2,Alcoholic Beverages
 4.41,0.63,7,Mezzo Mix,0.0,0,Soft Drinks
 10.2,2.04,5,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 6.42,3.21,2,Monster,0.0,0,Soft Drinks
@@ -5298,7 +5284,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.65,0.91,15,San Pellegrino,0.0,0,Water
 14.76,1.23,12,Fanta,0.0,0,Soft Drinks
 46.55,0.74,74,Vittel,0.15,0,Water
-683.09,10.69,71,Riesling,0.1,4,Alcoholic Beverages
+683.09,10.69,71,Riesling,0.1,2,Alcoholic Beverages
 3.64,0.91,4,San Pellegrino,0.0,0,Water
 54.0,1.96,29,Tomato Juice,0.05,0,Juices
 10.16,1.27,8,Schwip Schwap,0.0,0,Soft Drinks
@@ -5314,7 +5300,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 218.7,3.0,81,Red Bull,0.1,0,Soft Drinks
 48.45,3.23,15,Tomato Juice,0.0,0,Juices
 7.56,1.26,6,Evian,0.0,0,Water
-873.52,109.19,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+873.52,109.19,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 336.0,33.6,10,Tanqueray,0.0,0,Alcoholic Beverages
 51.03,0.79,68,Selters,0.05,0,Water
 94.5,1.5,70,Hohes C Orange,0.1,0,Juices
@@ -5324,7 +5310,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 29.11,1.47,22,Hohes C Orange,0.1,0,Juices
 56.86,0.95,63,Gerolsteiner,0.05,0,Water
 35.95,0.86,44,Evian,0.05,0,Water
-1574.44,112.46,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1574.44,112.46,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 27.44,3.43,8,Tomato Juice,0.0,0,Juices
 37.73,3.43,11,Tomato Juice,0.0,0,Juices
 300.39,6.2,51,Rotkäppchen Sekt,0.05,0,Alcoholic Beverages
@@ -5352,7 +5338,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.4,0.96,15,Kölsch,0.0,0,Alcoholic Beverages
 114.7,2.36,54,Erdinger Weißbier,0.1,0,Alcoholic Beverages
 33.1,3.31,10,Monster,0.0,0,Soft Drinks
-1237.06,112.46,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1237.06,112.46,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 15.92,1.99,8,Fritz-Kola,0.0,0,Soft Drinks
 218.46,2.61,93,Tomato Juice,0.1,0,Juices
 0.94,0.47,2,Selters,0.0,0,Water
@@ -5363,7 +5349,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 176.12,12.58,14,Havana Club,0.0,0,Alcoholic Beverages
 12.84,3.21,4,Monster,0.0,0,Soft Drinks
 16.76,4.19,4,Riesling,0.0,0,Alcoholic Beverages
-730.52,17.27,47,Bacardi,0.1,4,Alcoholic Beverages
+730.52,17.27,47,Bacardi,0.1,2,Alcoholic Beverages
 0.49,0.49,1,Selters,0.0,0,Water
 15.68,1.12,14,Augustiner,0.0,0,Alcoholic Beverages
 32.76,2.34,14,Rockstar,0.0,0,Soft Drinks
@@ -5413,10 +5399,9 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.6,1.24,15,Schwip Schwap,0.0,0,Soft Drinks
 7.12,0.89,8,San Pellegrino,0.0,0,Water
 23.66,1.69,14,Granini Apple,0.0,0,Juices
-7160.65,97.89,77,Moët & Chandon,0.05,2,Alcoholic Beverages
 71.68,2.95,27,Passion Fruit Juice,0.1,0,Juices
 25.87,1.99,13,Jever,0.0,0,Alcoholic Beverages
-982.71,109.19,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+982.71,109.19,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 9.84,1.23,8,Fanta,0.0,0,Soft Drinks
 19.38,3.23,6,Tomato Juice,0.0,0,Juices
 33.6,2.24,15,Erdinger Weißbier,0.0,0,Alcoholic Beverages
@@ -5469,7 +5454,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.66,0.61,6,Mezzo Mix,0.0,0,Soft Drinks
 5.04,0.63,8,Mezzo Mix,0.0,0,Soft Drinks
 22.95,1.53,15,Pepsi,0.0,0,Soft Drinks
-625.62,8.46,87,Merlot,0.15,4,Alcoholic Beverages
+625.62,8.46,87,Merlot,0.15,2,Alcoholic Beverages
 21.9,1.46,15,Volvic Touch,0.0,0,Water
 3.21,3.21,1,Mango Juice,0.0,0,Juices
 43.95,2.93,15,Passion Fruit Juice,0.0,0,Juices
@@ -5550,7 +5535,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 120.53,1.44,93,Selters,0.1,0,Water
 149.63,3.26,51,Mango Juice,0.1,0,Juices
 40.25,2.23,19,Fritz-Kola,0.05,0,Soft Drinks
-671.0,39.24,18,Johnnie Walker,0.05,4,Alcoholic Beverages
+671.0,39.24,18,Johnnie Walker,0.05,2,Alcoholic Beverages
 33.32,2.38,14,Rauch Multivitamin,0.0,0,Juices
 3.3,0.55,6,Volvic,0.0,0,Water
 13.68,1.71,8,Vio Wasser,0.0,0,Water
@@ -5622,7 +5607,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 64.89,2.53,27,Fritz-Kola,0.05,0,Soft Drinks
 6.63,2.21,3,Rockstar,0.0,0,Soft Drinks
 33.89,2.69,14,Granini Apple,0.1,0,Juices
-634.27,48.79,13,Jack Daniels,0.0,4,Alcoholic Beverages
+634.27,48.79,13,Jack Daniels,0.0,2,Alcoholic Beverages
 2.24,1.12,2,Augustiner,0.0,0,Alcoholic Beverages
 174.36,2.66,69,Rockstar,0.05,0,Soft Drinks
 5.25,1.75,3,Hohes C Orange,0.0,0,Juices
@@ -5656,7 +5641,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.57,0.61,32,Vio Wasser,0.1,0,Water
 48.09,2.46,23,Fritz-Kola,0.15,0,Soft Drinks
 71.92,1.31,61,Schwip Schwap,0.1,0,Soft Drinks
-513.99,57.11,9,Moët & Chandon,0.0,4,Alcoholic Beverages
+513.99,57.11,9,Moët & Chandon,0.0,2,Alcoholic Beverages
 22.34,3.92,6,Sauvignon Blanc,0.05,0,Alcoholic Beverages
 34.99,0.72,54,Vittel,0.1,0,Water
 23.4,2.34,10,Rockstar,0.0,0,Soft Drinks
@@ -5673,7 +5658,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 98.1,2.18,50,Rauch Multivitamin,0.1,0,Juices
 19.9,1.99,10,Fritz-Kola,0.0,0,Soft Drinks
 5.3,0.53,10,Sprite,0.0,0,Soft Drinks
-906.38,10.72,89,Sauvignon Blanc,0.05,4,Alcoholic Beverages
+906.38,10.72,89,Sauvignon Blanc,0.05,2,Alcoholic Beverages
 52.45,1.24,47,Schwip Schwap,0.1,0,Soft Drinks
 129.6,1.5,96,Schwip Schwap,0.1,0,Soft Drinks
 2.66,1.33,2,Beck's,0.0,0,Alcoholic Beverages
@@ -5695,7 +5680,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 253.95,3.08,97,Club Mate,0.15,0,Soft Drinks
 32.76,2.34,14,Rockstar,0.0,0,Soft Drinks
 436.2,72.7,6,Moët & Chandon,0.0,0,Alcoholic Beverages
-504.0,33.6,15,Tanqueray,0.0,4,Alcoholic Beverages
+504.0,33.6,15,Tanqueray,0.0,2,Alcoholic Beverages
 49.84,3.56,14,Cranberry Juice,0.0,0,Juices
 126.44,2.42,55,Club Mate,0.05,0,Soft Drinks
 9.33,3.11,3,Passion Fruit Juice,0.0,0,Juices
@@ -5704,7 +5689,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2783.86,33.26,93,Tanqueray,0.1,1,Alcoholic Beverages
 0.61,0.61,1,Mezzo Mix,0.0,0,Soft Drinks
 17.04,1.42,12,Volvic Touch,0.0,0,Water
-571.1,57.11,10,Moët & Chandon,0.0,4,Alcoholic Beverages
+571.1,57.11,10,Moët & Chandon,0.0,2,Alcoholic Beverages
 8.05,8.05,1,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 12.92,3.23,4,Tomato Juice,0.0,0,Juices
 28.89,3.21,9,Mango Juice,0.0,0,Juices
@@ -5719,7 +5704,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 20.55,1.37,15,Beck's,0.0,0,Alcoholic Beverages
 82.36,1.02,95,Selters,0.15,0,Water
 226.35,7.22,33,Merlot,0.05,0,Alcoholic Beverages
-1320.44,17.06,86,Chardonnay,0.1,4,Alcoholic Beverages
+1320.44,17.06,86,Chardonnay,0.1,2,Alcoholic Beverages
 2.9,0.58,5,Vittel,0.0,0,Water
 30.94,2.38,13,Rauch Multivitamin,0.0,0,Juices
 39.2,1.21,36,Granini Apple,0.1,0,Juices
@@ -5761,7 +5746,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 46.33,0.99,52,Volvic Touch,0.1,0,Water
 13.04,1.63,8,Krombacher,0.0,0,Alcoholic Beverages
 69.22,34.61,2,Tanqueray,0.0,0,Alcoholic Beverages
-983.25,57.5,19,Moët & Chandon,0.1,4,Alcoholic Beverages
+983.25,57.5,19,Moët & Chandon,0.1,2,Alcoholic Beverages
 6.55,1.31,5,Evian,0.0,0,Water
 34.65,2.31,15,Rauch Multivitamin,0.0,0,Juices
 14.91,2.13,7,Club Mate,0.0,0,Soft Drinks
@@ -5769,7 +5754,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 99.1,1.63,64,Evian,0.05,0,Water
 18.59,1.03,19,Beck's,0.05,0,Alcoholic Beverages
 14.68,3.67,4,Cranberry Juice,0.0,0,Juices
-629.48,16.99,39,Tanqueray,0.05,4,Alcoholic Beverages
+629.48,16.99,39,Tanqueray,0.05,2,Alcoholic Beverages
 7.63,1.09,7,Augustiner,0.0,0,Alcoholic Beverages
 14.56,1.04,14,Coca-Cola,0.0,0,Soft Drinks
 5.05,1.01,5,Gerolsteiner,0.0,0,Water
@@ -5786,7 +5771,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 233.52,3.31,83,Rockstar,0.15,0,Soft Drinks
 336.0,33.6,10,Tanqueray,0.0,0,Alcoholic Beverages
 8.96,4.48,2,Merlot,0.0,0,Alcoholic Beverages
-569.52,54.5,11,Moët & Chandon,0.05,4,Alcoholic Beverages
+569.52,54.5,11,Moët & Chandon,0.05,2,Alcoholic Beverages
 11.88,0.99,12,Mountain Dew,0.0,0,Soft Drinks
 20.12,5.03,4,Chardonnay,0.0,0,Alcoholic Beverages
 78.29,1.23,67,Sprite,0.05,0,Soft Drinks
@@ -5799,7 +5784,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 36.75,2.45,15,Rauch Multivitamin,0.0,0,Juices
 14.0,1.75,8,Hohes C Orange,0.0,0,Juices
 1.1,1.1,1,Coca-Cola,0.0,0,Soft Drinks
-1424.09,55.52,27,Moët & Chandon,0.05,4,Alcoholic Beverages
+1424.09,55.52,27,Moët & Chandon,0.05,2,Alcoholic Beverages
 17.94,1.38,13,Volvic Touch,0.0,0,Water
 120.75,8.05,15,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 82.52,2.02,43,Granini Apple,0.05,0,Juices
@@ -5813,7 +5798,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 42.28,3.02,14,Passion Fruit Juice,0.0,0,Juices
 23.4,1.8,13,Hohes C Orange,0.0,0,Juices
 47.71,3.67,13,Cranberry Juice,0.0,0,Juices
-575.02,7.76,78,Merlot,0.05,4,Alcoholic Beverages
+575.02,7.76,78,Merlot,0.05,2,Alcoholic Beverages
 82.62,1.8,51,Rockstar,0.1,0,Soft Drinks
 8.4,1.2,7,Schwip Schwap,0.0,0,Soft Drinks
 223.49,2.56,97,Fritz-Kola,0.1,0,Soft Drinks
@@ -5865,7 +5850,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 10.56,0.96,11,Mountain Dew,0.0,0,Soft Drinks
 94.28,1.08,97,Apollinaris,0.1,0,Water
 52.98,8.83,6,Sauvignon Blanc,0.0,0,Alcoholic Beverages
-522.14,11.84,49,Bacardi,0.1,4,Alcoholic Beverages
+522.14,11.84,49,Bacardi,0.1,2,Alcoholic Beverages
 94.48,1.71,65,Sprite,0.15,0,Soft Drinks
 51.38,3.67,14,Cranberry Juice,0.0,0,Juices
 248.64,35.52,7,Johnnie Walker,0.0,0,Alcoholic Beverages
@@ -5879,7 +5864,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 41.85,0.5,93,Volvic,0.1,0,Water
 0.56,0.56,1,Sprite,0.0,0,Soft Drinks
 12.04,0.86,14,San Pellegrino,0.0,0,Water
-1170.96,14.35,96,Sauvignon Blanc,0.15,4,Alcoholic Beverages
+1170.96,14.35,96,Sauvignon Blanc,0.15,2,Alcoholic Beverages
 63.36,2.3,29,Red Bull,0.05,0,Soft Drinks
 7.15,0.55,13,Sprite,0.0,0,Soft Drinks
 45.27,5.03,9,Chardonnay,0.0,0,Alcoholic Beverages
@@ -5958,13 +5943,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 4.56,1.14,4,Coca-Cola,0.0,0,Soft Drinks
 5.1,1.02,5,Warsteiner,0.0,0,Alcoholic Beverages
 49.42,1.53,34,Jever,0.05,0,Alcoholic Beverages
-684.34,10.44,69,Sauvignon Blanc,0.05,4,Alcoholic Beverages
+684.34,10.44,69,Sauvignon Blanc,0.05,2,Alcoholic Beverages
 43.42,0.72,67,Vio Wasser,0.1,0,Water
 179.26,2.55,74,Fritz-Kola,0.05,0,Soft Drinks
 41.23,0.63,77,Volvic,0.15,0,Water
 29.85,1.99,15,Jever,0.0,0,Alcoholic Beverages
 138.4,13.84,10,Bacardi,0.0,0,Alcoholic Beverages
-776.4,51.76,15,Jack Daniels,0.0,4,Alcoholic Beverages
+776.4,51.76,15,Jack Daniels,0.0,2,Alcoholic Beverages
 8.52,1.42,6,Volvic Touch,0.0,0,Water
 12.48,0.96,13,Kölsch,0.0,0,Alcoholic Beverages
 23.88,1.99,12,Fritz-Kola,0.0,0,Soft Drinks
@@ -5979,7 +5964,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 15.75,1.05,15,Warsteiner,0.0,0,Alcoholic Beverages
 12.35,0.65,20,San Pellegrino,0.05,0,Water
 30.88,0.65,50,Apollinaris,0.05,0,Water
-1181.61,27.64,45,Bacardi,0.05,4,Alcoholic Beverages
+1181.61,27.64,45,Bacardi,0.05,2,Alcoholic Beverages
 201.6,13.44,15,Bacardi,0.0,0,Alcoholic Beverages
 49.08,1.33,41,Beck's,0.1,0,Alcoholic Beverages
 15.68,1.12,14,Augustiner,0.0,0,Alcoholic Beverages
@@ -6009,7 +5994,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 63.72,1.47,51,Hohes C Orange,0.15,0,Juices
 39.2,1.21,36,Hohes C Orange,0.1,0,Juices
 30.94,2.21,14,Rockstar,0.0,0,Soft Drinks
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 7.96,1.99,4,Fritz-Kola,0.0,0,Soft Drinks
 14.11,0.49,32,Volvic,0.1,0,Water
 156.67,8.68,19,Chardonnay,0.05,0,Alcoholic Beverages
@@ -6018,7 +6003,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.26,2.21,6,Rockstar,0.0,0,Soft Drinks
 2.97,0.99,3,Kölsch,0.0,0,Alcoholic Beverages
 65.83,1.69,41,Coca-Cola,0.05,0,Soft Drinks
-537.84,7.2,83,Rotkäppchen Sekt,0.1,4,Alcoholic Beverages
+537.84,7.2,83,Rotkäppchen Sekt,0.1,2,Alcoholic Beverages
 22.56,1.88,12,Jever,0.0,0,Alcoholic Beverages
 25.65,1.35,20,Coca-Cola,0.05,0,Soft Drinks
 6.06,1.01,6,Gerolsteiner,0.0,0,Water
@@ -6033,7 +6018,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 138.47,1.57,98,Krombacher,0.1,0,Alcoholic Beverages
 46.51,1.36,36,Selters,0.05,0,Water
 261.95,2.94,99,Cranberry Juice,0.1,0,Juices
-1349.52,112.46,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1349.52,112.46,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 21.06,2.34,9,Rockstar,0.0,0,Soft Drinks
 3.12,3.12,1,Mango Juice,0.0,0,Juices
 39.96,3.33,12,Tomato Juice,0.0,0,Juices
@@ -6046,16 +6031,16 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 76.86,8.54,9,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 11.35,2.27,5,Rockstar,0.0,0,Soft Drinks
 108.0,1.25,96,Sprite,0.1,0,Soft Drinks
-856.65,57.11,15,Moët & Chandon,0.0,4,Alcoholic Beverages
+856.65,57.11,15,Moët & Chandon,0.0,2,Alcoholic Beverages
 41.45,8.29,5,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 282.12,3.87,81,Mango Juice,0.1,0,Juices
 3.42,0.57,6,Volvic,0.0,0,Water
 27.36,2.28,12,Red Bull,0.0,0,Soft Drinks
 56.43,1.1,57,Mezzo Mix,0.1,0,Soft Drinks
-554.74,6.02,97,Rotkäppchen Sekt,0.05,4,Alcoholic Beverages
+554.74,6.02,97,Rotkäppchen Sekt,0.05,2,Alcoholic Beverages
 9.84,1.23,8,Evian,0.0,0,Water
 21.42,1.53,14,Pepsi,0.0,0,Soft Drinks
-959.42,68.53,14,Moët & Chandon,0.0,4,Alcoholic Beverages
+959.42,68.53,14,Moët & Chandon,0.0,2,Alcoholic Beverages
 4457.95,53.84,92,Johnnie Walker,0.1,3,Alcoholic Beverages
 2.8,0.56,5,Vittel,0.0,0,Water
 41.02,2.93,14,Passion Fruit Juice,0.0,0,Juices
@@ -6072,10 +6057,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.3,0.55,6,Volvic,0.0,0,Water
 1.65,0.55,3,Volvic,0.0,0,Water
 35.7,2.38,15,Rauch Multivitamin,0.0,0,Juices
-592.31,23.98,26,Havana Club,0.05,4,Alcoholic Beverages
+592.31,23.98,26,Havana Club,0.05,2,Alcoholic Beverages
 36.41,3.31,11,Monster,0.0,0,Soft Drinks
 219.54,36.59,6,Johnnie Walker,0.0,0,Alcoholic Beverages
-562.3,112.46,5,Veuve Clicquot,0.0,4,Alcoholic Beverages
+562.3,112.46,5,Veuve Clicquot,0.0,2,Alcoholic Beverages
 15.54,2.22,7,Red Bull,0.0,0,Soft Drinks
 35.1,2.34,15,Rockstar,0.0,0,Soft Drinks
 6.65,1.33,5,Beck's,0.0,0,Alcoholic Beverages
@@ -6126,7 +6111,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.1,2.35,6,Red Bull,0.0,0,Soft Drinks
 14.7,1.19,13,Beck's,0.05,0,Alcoholic Beverages
 20.28,1.69,12,Granini Apple,0.0,0,Juices
-1297.62,16.02,90,Chardonnay,0.1,4,Alcoholic Beverages
+1297.62,16.02,90,Chardonnay,0.1,2,Alcoholic Beverages
 1.47,0.49,3,Selters,0.0,0,Water
 67.22,0.77,97,Volvic,0.1,0,Water
 82.86,0.93,99,San Pellegrino,0.1,0,Water
@@ -6157,7 +6142,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 40.25,8.05,5,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 128.17,3.03,47,Red Bull,0.1,0,Soft Drinks
 18.09,1.12,17,Pepsi,0.05,0,Soft Drinks
-917.67,70.59,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+917.67,70.59,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 2.82,1.41,2,Beck's,0.0,0,Alcoholic Beverages
 7.34,3.67,2,Cranberry Juice,0.0,0,Juices
 5.58,1.86,3,Hohes C Orange,0.0,0,Juices
@@ -6168,7 +6153,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 175.44,3.13,59,Red Bull,0.05,0,Soft Drinks
 4.48,0.56,8,Vittel,0.0,0,Water
 25.35,1.69,15,Granini Apple,0.0,0,Juices
-1201.09,109.19,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1201.09,109.19,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 28.26,0.85,35,Vio Wasser,0.05,0,Water
 201.6,33.6,6,Tanqueray,0.0,0,Alcoholic Beverages
 4.16,0.66,7,Sprite,0.1,0,Soft Drinks
@@ -6181,7 +6166,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 127.98,2.37,60,Granini Apple,0.1,0,Juices
 13.52,1.69,8,Granini Apple,0.0,0,Juices
 4.14,1.38,3,Volvic Touch,0.0,0,Water
-651.17,22.61,32,Havana Club,0.1,4,Alcoholic Beverages
+651.17,22.61,32,Havana Club,0.1,2,Alcoholic Beverages
 7.44,1.24,6,Schwip Schwap,0.0,0,Soft Drinks
 34.32,1.23,31,Krombacher,0.1,0,Alcoholic Beverages
 8.45,1.69,5,Granini Apple,0.0,0,Juices
@@ -6257,7 +6242,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 20.43,2.27,9,Rockstar,0.0,0,Soft Drinks
 2.48,1.24,2,Schwip Schwap,0.0,0,Soft Drinks
 11.43,1.27,9,Schwip Schwap,0.0,0,Soft Drinks
-539.25,11.13,51,Bacardi,0.05,4,Alcoholic Beverages
+539.25,11.13,51,Bacardi,0.05,2,Alcoholic Beverages
 13.72,0.76,19,Fanta,0.05,0,Soft Drinks
 414.59,37.69,11,Johnnie Walker,0.0,0,Alcoholic Beverages
 33.52,0.84,42,Evian,0.05,0,Water
@@ -6274,7 +6259,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.07,1.69,3,Granini Apple,0.0,0,Juices
 84.54,1.01,93,Coca-Cola,0.1,0,Soft Drinks
 4.89,1.63,3,Krombacher,0.0,0,Alcoholic Beverages
-1416.69,15.9,99,Riesling,0.1,4,Alcoholic Beverages
+1416.69,15.9,99,Riesling,0.1,2,Alcoholic Beverages
 4.44,2.22,2,Red Bull,0.0,0,Soft Drinks
 8.45,1.69,5,Granini Apple,0.0,0,Juices
 21.6,1.8,12,Hohes C Orange,0.0,0,Juices
@@ -6372,7 +6357,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.29,0.97,9,Beck's,0.05,0,Alcoholic Beverages
 168.3,3.3,60,Rockstar,0.15,0,Soft Drinks
 30.1,2.64,12,Mango Juice,0.05,0,Juices
-1571.32,30.63,54,Jack Daniels,0.05,4,Alcoholic Beverages
+1571.32,30.63,54,Jack Daniels,0.05,2,Alcoholic Beverages
 9.46,0.86,11,San Pellegrino,0.0,0,Water
 16.06,1.46,11,Volvic Touch,0.0,0,Water
 11.9,2.38,5,Rauch Multivitamin,0.0,0,Juices
@@ -6393,7 +6378,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 64.89,2.97,23,Hohes C Orange,0.05,0,Juices
 112.32,2.4,52,Cranberry Juice,0.1,0,Juices
 2714.11,47.12,64,Johnnie Walker,0.1,1,Alcoholic Beverages
-988.71,13.37,87,Merlot,0.15,4,Alcoholic Beverages
+988.71,13.37,87,Merlot,0.15,2,Alcoholic Beverages
 47.08,0.59,84,Pepsi,0.05,0,Soft Drinks
 82.28,1.21,80,Mountain Dew,0.15,0,Soft Drinks
 1.88,0.66,3,San Pellegrino,0.05,0,Water
@@ -6408,7 +6393,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 14.4,1.8,8,Hohes C Orange,0.0,0,Juices
 27.86,1.99,14,Fritz-Kola,0.0,0,Soft Drinks
 19.08,1.59,12,Krombacher,0.0,0,Alcoholic Beverages
-742.07,106.01,7,Veuve Clicquot,0.0,4,Alcoholic Beverages
+742.07,106.01,7,Veuve Clicquot,0.0,2,Alcoholic Beverages
 19.71,2.19,9,Club Mate,0.0,0,Soft Drinks
 19.14,1.55,13,Erdinger Weißbier,0.05,0,Alcoholic Beverages
 6.27,0.57,11,Volvic,0.0,0,Water
@@ -6421,7 +6406,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.73,0.91,3,San Pellegrino,0.0,0,Water
 17.14,8.57,2,Sauvignon Blanc,0.0,0,Alcoholic Beverages
 142.6,14.26,10,Bacardi,0.0,0,Alcoholic Beverages
-983.67,12.04,86,Chardonnay,0.05,4,Alcoholic Beverages
+983.67,12.04,86,Chardonnay,0.05,2,Alcoholic Beverages
 78.89,3.46,24,Passion Fruit Juice,0.05,0,Juices
 254.56,3.19,84,Cranberry Juice,0.05,0,Juices
 213.87,2.67,89,Rockstar,0.1,0,Soft Drinks
@@ -6462,7 +6447,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 109.44,1.44,80,Vio Wasser,0.05,0,Water
 319.68,35.52,9,Johnnie Walker,0.0,0,Alcoholic Beverages
 82.99,1.04,84,Warsteiner,0.05,0,Alcoholic Beverages
-715.86,8.2,97,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+715.86,8.2,97,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 6.55,1.31,5,Evian,0.0,0,Water
 55.19,1.66,35,Granini Apple,0.05,0,Juices
 13.24,3.31,4,Mango Juice,0.0,0,Juices
@@ -6529,7 +6514,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.75,1.75,1,Hohes C Orange,0.0,0,Juices
 4.13,0.59,7,Mezzo Mix,0.0,0,Soft Drinks
 40.43,3.11,13,Passion Fruit Juice,0.0,0,Juices
-1110.3,28.69,43,Bacardi,0.1,4,Alcoholic Beverages
+1110.3,28.69,43,Bacardi,0.1,2,Alcoholic Beverages
 127.01,1.96,72,Granini Apple,0.1,0,Juices
 1879.37,52.06,38,Johnnie Walker,0.05,1,Alcoholic Beverages
 31.8,2.12,15,Fritz-Kola,0.0,0,Soft Drinks
@@ -6545,7 +6530,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 0.91,0.91,1,San Pellegrino,0.0,0,Water
 11.48,1.64,7,Granini Apple,0.0,0,Juices
 109.77,36.59,3,Johnnie Walker,0.0,0,Alcoholic Beverages
-6214.43,104.62,66,Veuve Clicquot,0.1,3,Alcoholic Beverages
 6.32,1.58,4,Pepsi,0.0,0,Soft Drinks
 103.95,1.5,77,Jever,0.1,0,Alcoholic Beverages
 11.52,0.96,12,Mountain Dew,0.0,0,Soft Drinks
@@ -6587,7 +6571,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 194.22,2.6,83,Tomato Juice,0.1,0,Juices
 14.26,14.26,1,Bacardi,0.0,0,Alcoholic Beverages
 45.2,0.93,54,Evian,0.1,0,Water
-966.62,13.75,74,Riesling,0.05,4,Alcoholic Beverages
+966.62,13.75,74,Riesling,0.05,2,Alcoholic Beverages
 11.18,0.86,13,San Pellegrino,0.0,0,Water
 4.28,1.07,4,Gerolsteiner,0.0,0,Water
 7.84,0.56,14,Vittel,0.0,0,Water
@@ -6774,7 +6758,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 73.2,4.88,15,Chardonnay,0.0,0,Alcoholic Beverages
 19.56,1.63,12,Krombacher,0.0,0,Alcoholic Beverages
 76.63,0.86,99,Gerolsteiner,0.1,0,Water
-1237.06,112.46,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1237.06,112.46,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 26.64,3.33,8,Tomato Juice,0.0,0,Juices
 1.07,1.07,1,Coca-Cola,0.0,0,Soft Drinks
 18.46,1.42,13,Volvic Touch,0.0,0,Water
@@ -6878,7 +6862,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 25.22,0.45,59,Selters,0.05,0,Water
 1896.44,33.3,67,Jack Daniels,0.15,1,Alcoholic Beverages
 8.7,0.58,15,Vittel,0.0,0,Water
-1073.15,27.73,43,Johnnie Walker,0.1,4,Alcoholic Beverages
+1073.15,27.73,43,Johnnie Walker,0.1,2,Alcoholic Beverages
 43.54,3.11,14,Passion Fruit Juice,0.0,0,Juices
 9.45,0.63,15,Mezzo Mix,0.0,0,Soft Drinks
 1.14,0.57,2,Volvic,0.0,0,Water
@@ -6894,7 +6878,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.88,2.22,4,Red Bull,0.0,0,Soft Drinks
 222.22,13.76,17,Havana Club,0.05,0,Alcoholic Beverages
 6.51,0.93,7,Apollinaris,0.0,0,Water
-727.0,72.7,10,Moët & Chandon,0.0,4,Alcoholic Beverages
+727.0,72.7,10,Moët & Chandon,0.0,2,Alcoholic Beverages
 7.28,0.91,8,San Pellegrino,0.0,0,Water
 33.1,3.31,10,Mango Juice,0.0,0,Juices
 4.14,0.46,10,Gerolsteiner,0.1,0,Water
@@ -6927,7 +6911,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.55,1.38,5,Granini Apple,0.05,0,Juices
 9.59,1.37,7,Beck's,0.0,0,Alcoholic Beverages
 13.41,1.49,9,Pepsi,0.0,0,Soft Drinks
-1378.13,106.01,13,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1378.13,106.01,13,Veuve Clicquot,0.0,2,Alcoholic Beverages
 13.34,0.78,18,Schwip Schwap,0.05,0,Soft Drinks
 8.4,0.56,15,Sprite,0.0,0,Soft Drinks
 5.2,1.04,5,Coca-Cola,0.0,0,Soft Drinks
@@ -6967,7 +6951,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 94.96,1.47,76,Warsteiner,0.15,0,Alcoholic Beverages
 195.16,48.79,4,Jack Daniels,0.0,0,Alcoholic Beverages
 34.21,3.11,11,Passion Fruit Juice,0.0,0,Juices
-684.6,12.47,61,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+684.6,12.47,61,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 9.63,1.07,9,Coca-Cola,0.0,0,Soft Drinks
 30.87,3.43,9,Tomato Juice,0.0,0,Juices
 63.44,4.88,13,Riesling,0.0,0,Alcoholic Beverages
@@ -6983,7 +6967,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 154.94,2.33,70,Tomato Juice,0.05,0,Juices
 14.04,2.34,6,Rockstar,0.0,0,Soft Drinks
 10.7,1.07,10,Coca-Cola,0.0,0,Soft Drinks
-7358.69,90.18,96,Veuve Clicquot,0.15,2,Alcoholic Beverages
 13.8,1.38,10,Volvic Touch,0.0,0,Water
 8.32,0.64,13,Vittel,0.0,0,Water
 20.34,2.26,9,Club Mate,0.0,0,Soft Drinks
@@ -7149,7 +7132,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 236.31,3.41,77,Monster,0.1,0,Soft Drinks
 68.32,8.54,8,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 107.44,2.54,47,Rauch Multivitamin,0.1,0,Juices
-1528.24,32.83,49,Havana Club,0.05,4,Alcoholic Beverages
+1528.24,32.83,49,Havana Club,0.05,2,Alcoholic Beverages
 11.62,1.66,7,Vio Wasser,0.0,0,Water
 11.18,0.86,13,San Pellegrino,0.0,0,Water
 14.41,1.31,11,Evian,0.0,0,Water
@@ -7220,7 +7203,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 21.58,1.66,13,Vio Wasser,0.0,0,Water
 7.28,0.56,13,Sprite,0.0,0,Soft Drinks
 6.51,0.93,7,Mountain Dew,0.0,0,Soft Drinks
-548.85,36.59,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+548.85,36.59,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 34.05,2.27,15,Rockstar,0.0,0,Soft Drinks
 33.74,0.96,37,San Pellegrino,0.05,0,Water
 1.4,0.52,3,San Pellegrino,0.1,0,Water
@@ -7263,7 +7246,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 116.75,1.41,92,Vio Wasser,0.1,0,Water
 6.49,0.59,11,Mezzo Mix,0.0,0,Soft Drinks
 2.82,1.41,2,Beck's,0.0,0,Alcoholic Beverages
-742.07,106.01,7,Veuve Clicquot,0.0,4,Alcoholic Beverages
+742.07,106.01,7,Veuve Clicquot,0.0,2,Alcoholic Beverages
 8.72,3.06,3,Rockstar,0.05,0,Soft Drinks
 51.24,8.54,6,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 43.54,3.11,14,Passion Fruit Juice,0.0,0,Juices
@@ -7280,15 +7263,15 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.84,1.46,4,Volvic Touch,0.0,0,Water
 8.05,1.61,5,Vio Wasser,0.0,0,Water
 17.58,2.93,6,Passion Fruit Juice,0.0,0,Juices
-1249.34,19.28,72,Tanqueray,0.1,4,Alcoholic Beverages
+1249.34,19.28,72,Tanqueray,0.1,2,Alcoholic Beverages
 32.6,0.78,44,Coca-Cola,0.05,0,Soft Drinks
 8.79,2.93,3,Passion Fruit Juice,0.0,0,Juices
-589.72,29.56,21,Tanqueray,0.05,4,Alcoholic Beverages
+589.72,29.56,21,Tanqueray,0.05,2,Alcoholic Beverages
 85.5,1.0,95,Selters,0.1,0,Water
 9.06,3.02,3,Passion Fruit Juice,0.0,0,Juices
 4.38,2.19,2,Club Mate,0.0,0,Soft Drinks
 23.21,2.11,11,Erdinger Weißbier,0.0,0,Alcoholic Beverages
-1549.12,22.5,81,Tanqueray,0.15,4,Alcoholic Beverages
+1549.12,22.5,81,Tanqueray,0.15,2,Alcoholic Beverages
 33.16,8.29,4,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 18.6,1.24,15,Schwip Schwap,0.0,0,Soft Drinks
 17.22,1.23,14,Fanta,0.0,0,Soft Drinks
@@ -7311,7 +7294,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 8.85,0.59,15,Vittel,0.0,0,Water
 29.3,2.93,10,Passion Fruit Juice,0.0,0,Juices
 36.94,0.72,54,Volvic,0.05,0,Water
-606.48,15.96,40,Bacardi,0.05,4,Alcoholic Beverages
+606.48,15.96,40,Bacardi,0.05,2,Alcoholic Beverages
 33.15,2.21,15,Rockstar,0.0,0,Soft Drinks
 72.72,1.01,80,Gerolsteiner,0.1,0,Water
 53.4,3.56,15,Cranberry Juice,0.0,0,Juices
@@ -7381,7 +7364,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.88,0.34,12,Apollinaris,0.05,0,Water
 43.68,3.12,14,Mango Juice,0.0,0,Juices
 46.51,0.76,68,Vittel,0.1,0,Water
-506.46,7.84,68,Rotkäppchen Sekt,0.05,4,Alcoholic Beverages
+506.46,7.84,68,Rotkäppchen Sekt,0.05,2,Alcoholic Beverages
 9.69,3.23,3,Tomato Juice,0.0,0,Juices
 23.24,1.66,14,Vio Wasser,0.0,0,Water
 86.26,2.27,40,Erdinger Weißbier,0.05,0,Alcoholic Beverages
@@ -7415,7 +7398,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.93,2.31,3,Rauch Multivitamin,0.0,0,Juices
 7.96,1.99,4,Jever,0.0,0,Alcoholic Beverages
 8.32,0.77,12,Evian,0.1,0,Water
-1174.64,16.95,77,Merlot,0.1,4,Alcoholic Beverages
+1174.64,16.95,77,Merlot,0.1,2,Alcoholic Beverages
 20.86,1.49,14,Pepsi,0.0,0,Soft Drinks
 4899.28,56.12,97,Johnnie Walker,0.1,3,Alcoholic Beverages
 5.47,0.64,9,Vittel,0.05,0,Water
@@ -7433,7 +7416,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 38.48,1.5,27,Warsteiner,0.05,0,Alcoholic Beverages
 12.32,1.54,8,Krombacher,0.0,0,Alcoholic Beverages
 80.5,8.05,10,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
-548.85,36.59,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+548.85,36.59,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 174.72,13.44,13,Bacardi,0.0,0,Alcoholic Beverages
 3324.95,41.51,89,Bacardi,0.1,1,Alcoholic Beverages
 46.8,0.8,65,San Pellegrino,0.1,0,Water
@@ -7476,15 +7459,15 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 78.22,1.07,86,Sprite,0.15,0,Soft Drinks
 124.49,2.66,52,Passion Fruit Juice,0.1,0,Juices
 20.76,1.15,19,Sprite,0.05,0,Soft Drinks
-1157.44,30.62,42,Havana Club,0.1,4,Alcoholic Beverages
+1157.44,30.62,42,Havana Club,0.1,2,Alcoholic Beverages
 25.68,3.21,8,Mango Juice,0.0,0,Juices
 4.7,2.35,2,Red Bull,0.0,0,Soft Drinks
 15.51,1.41,11,Beck's,0.0,0,Alcoholic Beverages
 11.75,2.35,5,Red Bull,0.0,0,Soft Drinks
-546.44,28.76,20,Tanqueray,0.05,4,Alcoholic Beverages
+546.44,28.76,20,Tanqueray,0.05,2,Alcoholic Beverages
 2.74,1.37,2,Beck's,0.0,0,Alcoholic Beverages
 8.64,4.32,2,Riesling,0.0,0,Alcoholic Beverages
-499.1,35.65,14,Tanqueray,0.0,4,Alcoholic Beverages
+499.1,35.65,14,Tanqueray,0.0,2,Alcoholic Beverages
 12.6,1.8,7,Hohes C Orange,0.0,0,Juices
 2.76,1.38,2,Volvic Touch,0.0,0,Water
 9.4,1.88,5,Jever,0.0,0,Alcoholic Beverages
@@ -7499,13 +7482,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2892.24,61.8,52,Veuve Clicquot,0.1,1,Alcoholic Beverages
 12.84,1.07,12,Coca-Cola,0.0,0,Soft Drinks
 51.83,1.76,31,Granini Apple,0.05,0,Juices
-603.68,8.95,71,Merlot,0.05,4,Alcoholic Beverages
+603.68,8.95,71,Merlot,0.05,2,Alcoholic Beverages
 13.52,1.04,13,Gerolsteiner,0.0,0,Water
 199.5,4.2,50,Cranberry Juice,0.05,0,Juices
 94.85,1.04,96,Mountain Dew,0.05,0,Soft Drinks
 41.16,3.43,12,Tomato Juice,0.0,0,Juices
 49.5,0.91,64,Apollinaris,0.15,0,Water
-672.88,51.76,13,Jack Daniels,0.0,4,Alcoholic Beverages
+672.88,51.76,13,Jack Daniels,0.0,2,Alcoholic Beverages
 12.48,1.04,12,Coca-Cola,0.0,0,Soft Drinks
 6.06,1.01,6,Gerolsteiner,0.0,0,Water
 94.95,2.11,50,Rockstar,0.1,0,Soft Drinks
@@ -7549,7 +7532,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 231.66,3.9,66,Mango Juice,0.1,0,Juices
 19.74,1.41,14,Beck's,0.0,0,Alcoholic Beverages
 191.68,2.75,82,Cranberry Juice,0.15,0,Juices
-528.66,10.68,55,Riesling,0.1,4,Alcoholic Beverages
+528.66,10.68,55,Riesling,0.1,2,Alcoholic Beverages
 9.17,1.31,7,Evian,0.0,0,Water
 1.94,0.34,6,Selters,0.05,0,Water
 3.12,3.12,1,Mango Juice,0.0,0,Juices
@@ -7569,7 +7552,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 23.94,2.8,9,Rauch Multivitamin,0.05,0,Juices
 2.8,0.56,5,Vittel,0.0,0,Water
 3.92,0.56,7,Sprite,0.0,0,Soft Drinks
-589.05,8.5,77,Chardonnay,0.1,4,Alcoholic Beverages
+589.05,8.5,77,Chardonnay,0.1,2,Alcoholic Beverages
 3.72,0.93,4,Apollinaris,0.0,0,Water
 30.75,2.05,15,Fritz-Kola,0.0,0,Soft Drinks
 182.88,2.5,77,Mango Juice,0.05,0,Juices
@@ -7582,10 +7565,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.7,1.37,10,Beck's,0.0,0,Alcoholic Beverages
 334.58,8.59,41,Merlot,0.05,0,Alcoholic Beverages
 1.08,1.08,1,Warsteiner,0.0,0,Alcoholic Beverages
-1602.92,30.13,56,Havana Club,0.05,4,Alcoholic Beverages
+1602.92,30.13,56,Havana Club,0.05,2,Alcoholic Beverages
 34.2,2.28,15,Red Bull,0.0,0,Soft Drinks
 23.66,1.69,14,Granini Apple,0.0,0,Juices
-576.81,7.8,87,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+576.81,7.8,87,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 3.12,3.12,1,Monster,0.0,0,Soft Drinks
 23.24,1.66,14,Vio Wasser,0.0,0,Water
 88.71,2.03,46,Granini Apple,0.05,0,Juices
@@ -7601,7 +7584,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.5,1.75,10,Hohes C Orange,0.0,0,Juices
 28.08,2.34,12,Rockstar,0.0,0,Soft Drinks
 22.05,2.45,9,Rauch Multivitamin,0.0,0,Juices
-874.0,28.75,32,Johnnie Walker,0.05,4,Alcoholic Beverages
+874.0,28.75,32,Johnnie Walker,0.05,2,Alcoholic Beverages
 19.85,1.9,11,Kölsch,0.05,0,Alcoholic Beverages
 16.06,1.46,11,Volvic Touch,0.0,0,Water
 126.68,2.16,69,Tomato Juice,0.15,0,Juices
@@ -7653,7 +7636,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 61.05,4.07,15,Riesling,0.0,0,Alcoholic Beverages
 427.8,35.65,12,Tanqueray,0.0,0,Alcoholic Beverages
 9.36,1.04,9,Coca-Cola,0.0,0,Soft Drinks
-1353.6,32.0,47,Moët & Chandon,0.1,4,Alcoholic Beverages
+1353.6,32.0,47,Moët & Chandon,0.1,2,Alcoholic Beverages
 4.8,0.96,5,Mountain Dew,0.0,0,Soft Drinks
 225.99,2.7,93,Fritz-Kola,0.1,0,Soft Drinks
 25.85,2.35,11,Red Bull,0.0,0,Soft Drinks
@@ -7670,10 +7653,10 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 234.9,2.9,90,Mango Juice,0.1,0,Juices
 12.48,3.12,4,Mango Juice,0.0,0,Juices
 302.0,3.74,95,Cranberry Juice,0.15,0,Juices
-534.75,35.65,15,Tanqueray,0.0,4,Alcoholic Beverages
+534.75,35.65,15,Tanqueray,0.0,2,Alcoholic Beverages
 174.56,3.02,68,Monster,0.15,0,Soft Drinks
 1.01,1.01,1,Gerolsteiner,0.0,0,Water
-1389.85,29.26,50,Havana Club,0.05,4,Alcoholic Beverages
+1389.85,29.26,50,Havana Club,0.05,2,Alcoholic Beverages
 14.88,1.86,8,Hohes C Orange,0.0,0,Juices
 189.09,2.27,98,Hohes C Orange,0.15,0,Juices
 21.0,0.65,34,Vittel,0.05,0,Water
@@ -7689,7 +7672,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.75,1.21,5,Selters,0.05,0,Water
 17.95,0.7,27,Vittel,0.05,0,Water
 2.28,0.57,4,Volvic,0.0,0,Water
-899.68,112.46,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+899.68,112.46,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 14.68,3.67,4,Cranberry Juice,0.0,0,Juices
 1.3,0.65,2,Vittel,0.0,0,Water
 249.91,3.56,78,Rauch Multivitamin,0.1,0,Juices
@@ -7748,14 +7731,14 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 21.6,1.8,12,Hohes C Orange,0.0,0,Juices
 5.24,1.31,4,Evian,0.0,0,Water
 2.93,2.93,1,Passion Fruit Juice,0.0,0,Juices
-742.43,57.11,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+742.43,57.11,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 7.41,0.57,13,Volvic,0.0,0,Water
 36.36,9.09,4,Sauvignon Blanc,0.0,0,Alcoholic Beverages
 92.88,2.4,43,Hohes C Orange,0.1,0,Juices
 53.4,13.35,4,Havana Club,0.0,0,Alcoholic Beverages
 60.36,5.03,12,Chardonnay,0.0,0,Alcoholic Beverages
 5.39,0.63,9,Mezzo Mix,0.05,0,Soft Drinks
-512.26,36.59,14,Johnnie Walker,0.0,4,Alcoholic Beverages
+512.26,36.59,14,Johnnie Walker,0.0,2,Alcoholic Beverages
 65.75,0.91,85,Volvic,0.15,0,Water
 18.59,1.69,11,Granini Apple,0.0,0,Juices
 50.14,1.82,29,Evian,0.05,0,Water
@@ -7768,7 +7751,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 42.18,0.74,60,Volvic,0.05,0,Water
 7.7,0.55,14,Sprite,0.0,0,Soft Drinks
 19.56,1.63,12,Krombacher,0.0,0,Alcoholic Beverages
-535.81,9.45,63,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+535.81,9.45,63,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 243.5,3.56,76,Passion Fruit Juice,0.1,0,Juices
 6.36,1.59,4,Granini Apple,0.0,0,Juices
 12.32,1.54,8,Krombacher,0.0,0,Alcoholic Beverages
@@ -7777,7 +7760,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.07,1.07,1,Gerolsteiner,0.0,0,Water
 4.9,0.49,10,Selters,0.0,0,Water
 40.32,4.48,9,Merlot,0.0,0,Alcoholic Beverages
-565.35,37.69,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+565.35,37.69,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 3641.34,82.57,49,Veuve Clicquot,0.1,1,Alcoholic Beverages
 5.06,0.46,11,Selters,0.0,0,Water
 2.12,2.12,1,Fritz-Kola,0.0,0,Soft Drinks
@@ -7796,9 +7779,8 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 24.5,1.75,14,Hohes C Orange,0.0,0,Juices
 99.99,9.09,11,Sauvignon Blanc,0.0,0,Alcoholic Beverages
 8.37,0.93,9,Apollinaris,0.0,0,Water
-1316.7,27.72,50,Havana Club,0.05,4,Alcoholic Beverages
-1590.15,106.01,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
-0.46,0.46,1,Selters,0.0,0,Water
+1316.7,27.72,50,Havana Club,0.05,2,Alcoholic Beverages
+1590.15,106.01,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 7.03,1.85,4,Granini Apple,0.05,0,Juices
 9.84,1.64,6,Granini Apple,0.0,0,Juices
 25.44,2.57,11,Cranberry Juice,0.1,0,Juices
@@ -7806,7 +7788,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.15,3.43,5,Tomato Juice,0.0,0,Juices
 23.94,0.6,42,Schwip Schwap,0.05,0,Soft Drinks
 9.12,2.28,4,Red Bull,0.0,0,Soft Drinks
-700.67,8.96,92,Merlot,0.15,4,Alcoholic Beverages
+700.67,8.96,92,Merlot,0.15,2,Alcoholic Beverages
 13.44,0.93,17,Schwip Schwap,0.15,0,Soft Drinks
 63.77,1.21,62,Hohes C Orange,0.15,0,Juices
 34.3,2.45,14,Rauch Multivitamin,0.0,0,Juices
@@ -7823,7 +7805,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 23.1,2.31,10,Rauch Multivitamin,0.0,0,Juices
 3.38,1.69,2,Granini Apple,0.0,0,Juices
 49.28,2.19,25,Rauch Multivitamin,0.1,0,Juices
-667.28,17.56,40,Tanqueray,0.05,4,Alcoholic Beverages
+667.28,17.56,40,Tanqueray,0.05,2,Alcoholic Beverages
 100.61,1.33,89,Gerolsteiner,0.15,0,Water
 489.97,37.69,13,Johnnie Walker,0.0,0,Alcoholic Beverages
 8.91,0.99,9,Apollinaris,0.0,0,Water
@@ -7842,7 +7824,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 99.07,2.37,44,Mango Juice,0.05,0,Juices
 1.58,1.58,1,Pepsi,0.0,0,Soft Drinks
 15.4,1.54,10,Krombacher,0.0,0,Alcoholic Beverages
-1155.61,14.94,91,Sauvignon Blanc,0.15,4,Alcoholic Beverages
+1155.61,14.94,91,Sauvignon Blanc,0.15,2,Alcoholic Beverages
 150.75,50.25,3,Jack Daniels,0.0,0,Alcoholic Beverages
 41.48,3.05,16,Mango Juice,0.15,0,Juices
 75.6,2.0,42,Rockstar,0.1,0,Soft Drinks
@@ -7902,7 +7884,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 22.61,0.85,28,Gerolsteiner,0.05,0,Water
 31.39,2.36,14,Rauch Multivitamin,0.05,0,Juices
 121.96,2.62,49,Cranberry Juice,0.05,0,Juices
-1184.12,26.52,47,Havana Club,0.05,4,Alcoholic Beverages
+1184.12,26.52,47,Havana Club,0.05,2,Alcoholic Beverages
 17.28,1.92,9,Erdinger Weißbier,0.0,0,Alcoholic Beverages
 8.28,1.38,6,Volvic Touch,0.0,0,Water
 25.62,8.54,3,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
@@ -7971,7 +7953,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 60.61,1.16,55,Coca-Cola,0.05,0,Soft Drinks
 210.9,5.55,40,Riesling,0.05,0,Alcoholic Beverages
 1.16,0.58,2,Volvic,0.0,0,Water
-1012.14,112.46,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1012.14,112.46,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 16.4,2.05,8,Fritz-Kola,0.0,0,Soft Drinks
 5.95,1.19,5,Fanta,0.0,0,Soft Drinks
 1.82,0.91,2,San Pellegrino,0.0,0,Water
@@ -8007,7 +7989,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 10.53,0.65,18,Gerolsteiner,0.1,0,Water
 102.59,1.42,85,Sprite,0.15,0,Soft Drinks
 15.96,2.28,7,Red Bull,0.0,0,Soft Drinks
-714.64,44.25,17,Moët & Chandon,0.05,4,Alcoholic Beverages
+714.64,44.25,17,Moët & Chandon,0.05,2,Alcoholic Beverages
 10.48,0.97,12,Krombacher,0.1,0,Alcoholic Beverages
 11.44,1.04,11,Gerolsteiner,0.0,0,Water
 3.43,0.49,7,Selters,0.0,0,Water
@@ -8039,7 +8021,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 64.24,0.86,83,Fanta,0.1,0,Soft Drinks
 46.12,1.25,41,Augustiner,0.1,0,Alcoholic Beverages
 0.93,0.93,1,Apollinaris,0.0,0,Water
-1258.75,53.0,25,Veuve Clicquot,0.05,4,Alcoholic Beverages
+1258.75,53.0,25,Veuve Clicquot,0.05,2,Alcoholic Beverages
 279.28,3.41,91,Passion Fruit Juice,0.1,0,Juices
 44.18,0.62,75,Volvic,0.05,0,Water
 11.72,2.93,4,Passion Fruit Juice,0.0,0,Juices
@@ -8073,7 +8055,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 12.3,2.05,6,Fritz-Kola,0.0,0,Soft Drinks
 243.65,2.82,96,Rockstar,0.1,0,Soft Drinks
 6.39,2.13,3,Club Mate,0.0,0,Soft Drinks
-1153.77,17.35,70,Jack Daniels,0.05,4,Alcoholic Beverages
+1153.77,17.35,70,Jack Daniels,0.05,2,Alcoholic Beverages
 23.33,2.16,12,Jever,0.1,0,Alcoholic Beverages
 84.32,1.24,80,Volvic,0.15,0,Water
 17.1,1.71,10,Vio Wasser,0.0,0,Water
@@ -8095,21 +8077,21 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 7.3,1.46,5,Volvic Touch,0.0,0,Water
 2498.08,99.13,28,Veuve Clicquot,0.1,1,Alcoholic Beverages
 113.72,3.24,39,Red Bull,0.1,0,Soft Drinks
-685.32,57.11,12,Moët & Chandon,0.0,4,Alcoholic Beverages
+685.32,57.11,12,Moët & Chandon,0.0,2,Alcoholic Beverages
 51.12,2.84,20,Passion Fruit Juice,0.1,0,Juices
 11.07,1.23,9,Fanta,0.0,0,Soft Drinks
 7.08,0.59,12,Vittel,0.0,0,Water
 15.33,2.19,7,Club Mate,0.0,0,Soft Drinks
 19.08,1.59,12,Granini Apple,0.0,0,Juices
 43.32,0.95,48,San Pellegrino,0.05,0,Water
-1637.85,109.19,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1637.85,109.19,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 13.72,3.43,4,Tomato Juice,0.0,0,Juices
 7.12,0.89,8,San Pellegrino,0.0,0,Water
 5.22,0.58,9,Volvic,0.0,0,Water
 38.76,3.23,12,Tomato Juice,0.0,0,Juices
-1548.73,35.44,46,Tanqueray,0.05,4,Alcoholic Beverages
+1548.73,35.44,46,Tanqueray,0.05,2,Alcoholic Beverages
 160.39,2.51,71,Hohes C Orange,0.1,0,Juices
-809.25,19.36,44,Tanqueray,0.05,4,Alcoholic Beverages
+809.25,19.36,44,Tanqueray,0.05,2,Alcoholic Beverages
 1.8,1.8,1,Hohes C Orange,0.0,0,Juices
 19.86,3.31,6,Mango Juice,0.0,0,Juices
 3.48,1.74,2,Pepsi,0.0,0,Soft Drinks
@@ -8136,11 +8118,11 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 17.55,0.65,30,Selters,0.1,0,Water
 22.47,3.21,7,Monster,0.0,0,Soft Drinks
 6.04,3.02,2,Passion Fruit Juice,0.0,0,Juices
-1201.09,109.19,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1201.09,109.19,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 376.9,37.69,10,Johnnie Walker,0.0,0,Alcoholic Beverages
 138.94,1.86,83,Club Mate,0.1,0,Soft Drinks
 20.28,1.69,12,Granini Apple,0.0,0,Juices
-1528.66,109.19,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1528.66,109.19,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 152.93,3.54,48,Passion Fruit Juice,0.1,0,Juices
 18.04,1.64,11,Granini Apple,0.0,0,Juices
 2.48,1.24,2,Schwip Schwap,0.0,0,Soft Drinks
@@ -8199,8 +8181,8 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.2,0.65,8,Vittel,0.0,0,Water
 1.54,1.54,1,Krombacher,0.0,0,Alcoholic Beverages
 4.77,1.59,3,Krombacher,0.0,0,Alcoholic Beverages
-1574.44,112.46,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
-920.79,15.74,65,Chardonnay,0.1,4,Alcoholic Beverages
+1574.44,112.46,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
+920.79,15.74,65,Chardonnay,0.1,2,Alcoholic Beverages
 102.6,1.2,95,Coca-Cola,0.1,0,Soft Drinks
 21.97,1.69,13,Granini Apple,0.0,0,Juices
 57.06,2.31,26,Cranberry Juice,0.05,0,Juices
@@ -8244,7 +8226,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.98,1.05,10,Krombacher,0.05,0,Alcoholic Beverages
 142.21,1.69,99,Mountain Dew,0.15,0,Soft Drinks
 9.5,1.0,10,Volvic Touch,0.05,0,Water
-719.37,17.61,43,Tanqueray,0.05,4,Alcoholic Beverages
+719.37,17.61,43,Tanqueray,0.05,2,Alcoholic Beverages
 42.77,0.72,66,Apollinaris,0.1,0,Water
 186.12,2.2,94,Granini Apple,0.1,0,Juices
 28.48,3.56,8,Cranberry Juice,0.0,0,Juices
@@ -8266,7 +8248,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 124.35,8.29,15,Rotkäppchen Sekt,0.0,0,Alcoholic Beverages
 3.42,1.71,2,Vio Wasser,0.0,0,Water
 25.16,12.58,2,Havana Club,0.0,0,Alcoholic Beverages
-631.18,19.04,39,Tanqueray,0.15,4,Alcoholic Beverages
+631.18,19.04,39,Tanqueray,0.15,2,Alcoholic Beverages
 8.64,0.96,9,Mountain Dew,0.0,0,Soft Drinks
 6.58,0.47,14,Selters,0.0,0,Water
 30.18,5.03,6,Chardonnay,0.0,0,Alcoholic Beverages
@@ -8280,7 +8262,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.36,0.56,6,Sprite,0.0,0,Soft Drinks
 8.91,0.99,9,Mountain Dew,0.0,0,Soft Drinks
 33.61,0.61,58,Pepsi,0.05,0,Soft Drinks
-600.97,10.77,62,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+600.97,10.77,62,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 5.7,0.57,10,Volvic,0.0,0,Water
 2.79,0.93,3,Mountain Dew,0.0,0,Soft Drinks
 9.63,3.21,3,Mango Juice,0.0,0,Juices
@@ -8329,7 +8311,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 216.22,2.64,91,Red Bull,0.1,0,Soft Drinks
 64.8,2.0,36,Tomato Juice,0.1,0,Juices
 36.63,4.07,9,Riesling,0.0,0,Alcoholic Beverages
-822.32,11.12,87,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+822.32,11.12,87,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 157.8,1.97,89,Hohes C Orange,0.1,0,Juices
 17.86,0.94,20,Volvic Touch,0.05,0,Water
 19.38,3.23,6,Tomato Juice,0.0,0,Juices
@@ -8386,14 +8368,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 130.82,3.23,45,Rauch Multivitamin,0.1,0,Juices
 11.63,0.68,18,San Pellegrino,0.05,0,Water
 10.01,0.91,11,San Pellegrino,0.0,0,Water
-982.26,18.19,60,Bacardi,0.1,4,Alcoholic Beverages
-9702.15,123.91,87,Moët & Chandon,0.1,2,Alcoholic Beverages
+982.26,18.19,60,Bacardi,0.1,2,Alcoholic Beverages
 31.59,0.95,35,Selters,0.05,0,Water
-536.26,31.36,18,Johnnie Walker,0.05,4,Alcoholic Beverages
+536.26,31.36,18,Johnnie Walker,0.05,2,Alcoholic Beverages
 209.14,6.29,35,Rotkäppchen Sekt,0.05,0,Alcoholic Beverages
 7.76,1.94,4,Jever,0.0,0,Alcoholic Beverages
 39.1,0.98,42,Warsteiner,0.05,0,Alcoholic Beverages
-923.38,11.93,86,Merlot,0.1,4,Alcoholic Beverages
+923.38,11.93,86,Merlot,0.1,2,Alcoholic Beverages
 16.96,0.35,51,Vittel,0.05,0,Water
 2.24,0.56,4,Sprite,0.0,0,Soft Drinks
 43.26,1.38,33,Kölsch,0.05,0,Alcoholic Beverages
@@ -8401,7 +8382,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.35,3.67,5,Cranberry Juice,0.0,0,Juices
 6.48,1.08,6,Warsteiner,0.0,0,Alcoholic Beverages
 134.82,2.14,70,Granini Apple,0.1,0,Juices
-565.35,37.69,15,Johnnie Walker,0.0,4,Alcoholic Beverages
+565.35,37.69,15,Johnnie Walker,0.0,2,Alcoholic Beverages
 2.85,0.57,5,Volvic,0.0,0,Water
 3.6,1.2,3,Schwip Schwap,0.0,0,Soft Drinks
 9.3,0.93,10,Apollinaris,0.0,0,Water
@@ -8442,7 +8423,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 13.32,2.22,6,Red Bull,0.0,0,Soft Drinks
 6.72,0.56,12,Vittel,0.0,0,Water
 16.74,1.86,9,Hohes C Orange,0.0,0,Juices
-1154.06,30.37,40,Havana Club,0.05,4,Alcoholic Beverages
+1154.06,30.37,40,Havana Club,0.05,2,Alcoholic Beverages
 9.6,1.2,8,Schwip Schwap,0.0,0,Soft Drinks
 84.34,1.93,46,Granini Apple,0.05,0,Juices
 22.47,3.21,7,Mango Juice,0.0,0,Juices
@@ -8480,14 +8461,14 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.38,1.19,2,Fanta,0.0,0,Soft Drinks
 66.58,1.37,54,Beck's,0.1,0,Alcoholic Beverages
 92.62,2.5,39,Fritz-Kola,0.05,0,Soft Drinks
-879.31,33.69,29,Jack Daniels,0.1,4,Alcoholic Beverages
+879.31,33.69,29,Jack Daniels,0.1,2,Alcoholic Beverages
 3.85,0.55,7,Sprite,0.0,0,Soft Drinks
 179.42,3.56,56,Mango Juice,0.1,0,Juices
 138.38,12.58,11,Havana Club,0.0,0,Alcoholic Beverages
 341.53,48.79,7,Jack Daniels,0.0,0,Alcoholic Beverages
 25.84,3.23,8,Tomato Juice,0.0,0,Juices
-581.55,19.13,32,Jack Daniels,0.05,4,Alcoholic Beverages
-677.06,22.99,31,Johnnie Walker,0.05,4,Alcoholic Beverages
+581.55,19.13,32,Jack Daniels,0.05,2,Alcoholic Beverages
+677.06,22.99,31,Johnnie Walker,0.05,2,Alcoholic Beverages
 41.52,3.46,12,Cranberry Juice,0.0,0,Juices
 5.06,0.46,11,Selters,0.0,0,Water
 243.43,2.76,98,Rockstar,0.1,0,Soft Drinks
@@ -8509,7 +8490,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.18,0.67,5,Gerolsteiner,0.05,0,Water
 11.88,0.99,12,Apollinaris,0.0,0,Water
 13.02,0.93,14,Apollinaris,0.0,0,Water
-1134.72,15.76,80,Havana Club,0.1,4,Alcoholic Beverages
+1134.72,15.76,80,Havana Club,0.1,2,Alcoholic Beverages
 13.68,1.71,8,Vio Wasser,0.0,0,Water
 244.58,3.16,86,Mango Juice,0.1,0,Juices
 134.3,1.58,100,Schwip Schwap,0.15,0,Soft Drinks
@@ -8524,7 +8505,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.92,1.24,8,Schwip Schwap,0.0,0,Soft Drinks
 17.49,1.59,11,Granini Apple,0.0,0,Juices
 30.24,4.32,7,Riesling,0.0,0,Alcoholic Beverages
-1603.37,24.82,68,Havana Club,0.05,4,Alcoholic Beverages
+1603.37,24.82,68,Havana Club,0.05,2,Alcoholic Beverages
 13.65,0.91,15,San Pellegrino,0.0,0,Water
 1.1,0.55,2,Volvic,0.0,0,Water
 4.44,2.22,2,Red Bull,0.0,0,Soft Drinks
@@ -8586,7 +8567,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 30.53,0.64,53,Vittel,0.1,0,Water
 7.7,0.55,14,Volvic,0.0,0,Water
 119.97,2.87,44,Mango Juice,0.05,0,Juices
-585.48,48.79,12,Jack Daniels,0.0,4,Alcoholic Beverages
+585.48,48.79,12,Jack Daniels,0.0,2,Alcoholic Beverages
 14.04,2.34,6,Rockstar,0.0,0,Soft Drinks
 9.36,2.34,4,Rockstar,0.0,0,Soft Drinks
 77.11,1.26,72,Coca-Cola,0.15,0,Soft Drinks
@@ -8594,14 +8575,13 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 22.05,2.45,9,Rauch Multivitamin,0.0,0,Juices
 8.75,1.75,5,Hohes C Orange,0.0,0,Juices
 5.39,0.49,11,Selters,0.0,0,Water
-1310.28,109.19,12,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1310.28,109.19,12,Veuve Clicquot,0.0,2,Alcoholic Beverages
 16.8,1.12,15,Augustiner,0.0,0,Alcoholic Beverages
 116.05,3.07,42,Rauch Multivitamin,0.1,0,Juices
 66.36,4.74,14,Chardonnay,0.0,0,Alcoholic Beverages
 6.72,0.96,7,Mountain Dew,0.0,0,Soft Drinks
 7.15,0.55,13,Volvic,0.0,0,Water
-9443.47,129.54,81,Moët & Chandon,0.1,2,Alcoholic Beverages
-1201.09,109.19,11,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1201.09,109.19,11,Veuve Clicquot,0.0,2,Alcoholic Beverages
 19.98,2.22,9,Red Bull,0.0,0,Soft Drinks
 10.8,1.2,9,Schwip Schwap,0.0,0,Soft Drinks
 74.2,1.07,73,Mountain Dew,0.05,0,Soft Drinks
@@ -8609,16 +8589,16 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3490.7,59.67,65,Johnnie Walker,0.1,1,Alcoholic Beverages
 26.9,0.48,59,Volvic,0.05,0,Water
 99.96,3.83,29,Sauvignon Blanc,0.1,0,Alcoholic Beverages
-1667.3,31.91,55,Tanqueray,0.05,4,Alcoholic Beverages
+1667.3,31.91,55,Tanqueray,0.05,2,Alcoholic Beverages
 40.5,2.5,18,Passion Fruit Juice,0.1,0,Juices
 5.58,0.93,6,Kölsch,0.0,0,Alcoholic Beverages
-787.54,60.58,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+787.54,60.58,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 12.84,1.07,12,Gerolsteiner,0.0,0,Water
 3.54,0.59,6,Vittel,0.0,0,Water
 7.76,1.94,4,Jever,0.0,0,Alcoholic Beverages
 1.64,1.64,1,Pepsi,0.0,0,Soft Drinks
 2076.04,30.53,80,Bacardi,0.15,1,Alcoholic Beverages
-513.99,57.11,9,Moët & Chandon,0.0,4,Alcoholic Beverages
+513.99,57.11,9,Moët & Chandon,0.0,2,Alcoholic Beverages
 104.46,1.59,73,Hohes C Orange,0.1,0,Juices
 5.8,0.58,10,Vittel,0.0,0,Water
 3108.11,53.13,65,Jack Daniels,0.1,1,Alcoholic Beverages
@@ -8676,7 +8656,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.96,4.74,4,Chardonnay,0.0,0,Alcoholic Beverages
 97.58,48.79,2,Jack Daniels,0.0,0,Alcoholic Beverages
 2553.56,32.78,82,Tanqueray,0.05,1,Alcoholic Beverages
-655.14,109.19,6,Veuve Clicquot,0.0,4,Alcoholic Beverages
+655.14,109.19,6,Veuve Clicquot,0.0,2,Alcoholic Beverages
 16.65,3.33,5,Tomato Juice,0.0,0,Juices
 7.49,1.07,7,Gerolsteiner,0.0,0,Water
 213.9,35.65,6,Tanqueray,0.0,0,Alcoholic Beverages
@@ -8740,7 +8720,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 173.66,2.88,67,Rockstar,0.1,0,Soft Drinks
 12.88,1.59,9,Granini Apple,0.1,0,Juices
 1.38,0.46,3,Selters,0.0,0,Water
-1390.16,16.52,99,Sauvignon Blanc,0.15,4,Alcoholic Beverages
+1390.16,16.52,99,Sauvignon Blanc,0.15,2,Alcoholic Beverages
 5.8,1.16,5,Fanta,0.0,0,Soft Drinks
 43.2,1.2,40,San Pellegrino,0.1,0,Water
 257.35,3.48,87,Rockstar,0.15,0,Soft Drinks
@@ -8787,18 +8767,18 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 36.41,3.31,11,Monster,0.0,0,Soft Drinks
 7.54,0.58,13,Volvic,0.0,0,Water
 41.02,2.93,14,Passion Fruit Juice,0.0,0,Juices
-1444.61,31.68,48,Bacardi,0.05,4,Alcoholic Beverages
+1444.61,31.68,48,Bacardi,0.05,2,Alcoholic Beverages
 12.84,1.07,12,Coca-Cola,0.0,0,Soft Drinks
 6.93,2.31,3,Rauch Multivitamin,0.0,0,Juices
 13.32,3.33,4,Tomato Juice,0.0,0,Juices
-724.64,51.76,14,Jack Daniels,0.0,4,Alcoholic Beverages
+724.64,51.76,14,Jack Daniels,0.0,2,Alcoholic Beverages
 16.92,1.41,12,Beck's,0.0,0,Alcoholic Beverages
 8.76,2.19,4,Club Mate,0.0,0,Soft Drinks
 9.06,3.02,3,Passion Fruit Juice,0.0,0,Juices
 0.57,0.57,1,Volvic,0.0,0,Water
 2278.78,27.08,99,Bacardi,0.15,1,Alcoholic Beverages
 34.3,2.45,14,Rauch Multivitamin,0.0,0,Juices
-1028.98,12.61,96,Bacardi,0.15,4,Alcoholic Beverages
+1028.98,12.61,96,Bacardi,0.15,2,Alcoholic Beverages
 31.72,0.63,53,Vio Wasser,0.05,0,Water
 6.49,0.59,11,Vittel,0.0,0,Water
 254.54,3.58,79,Passion Fruit Juice,0.1,0,Juices
@@ -8809,7 +8789,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 23.85,0.46,61,Apollinaris,0.15,0,Water
 15.6,1.2,13,Schwip Schwap,0.0,0,Soft Drinks
 22.56,1.88,12,Jever,0.0,0,Alcoholic Beverages
-1631.68,95.42,18,Veuve Clicquot,0.05,4,Alcoholic Beverages
+1631.68,95.42,18,Veuve Clicquot,0.05,2,Alcoholic Beverages
 60.26,1.08,62,Schwip Schwap,0.1,0,Soft Drinks
 98.95,2.17,48,Vio Wasser,0.05,0,Water
 58.5,0.65,100,Volvic,0.1,0,Water
@@ -8822,7 +8802,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 86.69,1.72,56,Kölsch,0.1,0,Alcoholic Beverages
 344.21,4.45,91,Passion Fruit Juice,0.15,0,Juices
 161.46,2.76,65,Passion Fruit Juice,0.1,0,Juices
-1629.44,26.8,64,Johnnie Walker,0.05,4,Alcoholic Beverages
+1629.44,26.8,64,Johnnie Walker,0.05,2,Alcoholic Beverages
 15.1,3.02,5,Passion Fruit Juice,0.0,0,Juices
 6.24,3.12,2,Mango Juice,0.0,0,Juices
 52.83,0.83,67,Mountain Dew,0.05,0,Soft Drinks
@@ -8874,7 +8854,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 32.1,3.21,10,Mango Juice,0.0,0,Juices
 29.89,1.43,22,Granini Apple,0.05,0,Juices
 5.4,1.08,5,Warsteiner,0.0,0,Alcoholic Beverages
-1001.68,32.95,32,Tanqueray,0.05,4,Alcoholic Beverages
+1001.68,32.95,32,Tanqueray,0.05,2,Alcoholic Beverages
 441.11,7.87,59,Chardonnay,0.05,0,Alcoholic Beverages
 26.52,2.21,12,Rockstar,0.0,0,Soft Drinks
 3.98,1.99,2,Fritz-Kola,0.0,0,Soft Drinks
@@ -8882,7 +8862,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 130.05,2.04,75,Hohes C Orange,0.15,0,Juices
 184.44,2.07,99,Warsteiner,0.1,0,Alcoholic Beverages
 252.72,4.32,65,Red Bull,0.1,0,Soft Drinks
-7290.47,114.54,67,Moët & Chandon,0.05,2,Alcoholic Beverages
 20.67,1.59,13,Granini Apple,0.0,0,Juices
 24.5,1.75,14,Hohes C Orange,0.0,0,Juices
 13.28,1.66,8,Vio Wasser,0.0,0,Water
@@ -8952,7 +8931,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 12.04,0.86,14,San Pellegrino,0.0,0,Water
 107.86,1.35,94,Mezzo Mix,0.15,0,Soft Drinks
 31.43,0.97,36,Vio Wasser,0.1,0,Water
-1253.24,32.98,40,Johnnie Walker,0.05,4,Alcoholic Beverages
+1253.24,32.98,40,Johnnie Walker,0.05,2,Alcoholic Beverages
 62.73,2.13,31,Cranberry Juice,0.05,0,Juices
 4.24,2.12,2,Fritz-Kola,0.0,0,Soft Drinks
 14.82,1.14,13,Coca-Cola,0.0,0,Soft Drinks
@@ -8963,7 +8942,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.96,0.49,4,Selters,0.0,0,Water
 7.98,0.35,24,Apollinaris,0.05,0,Water
 26.28,2.19,12,Club Mate,0.0,0,Soft Drinks
-701.84,9.51,82,Merlot,0.1,4,Alcoholic Beverages
+701.84,9.51,82,Merlot,0.1,2,Alcoholic Beverages
 9.95,1.99,5,Fritz-Kola,0.0,0,Soft Drinks
 29.75,1.08,29,Warsteiner,0.05,0,Alcoholic Beverages
 33.52,4.19,8,Riesling,0.0,0,Alcoholic Beverages
@@ -8985,7 +8964,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.28,0.88,41,San Pellegrino,0.05,0,Water
 19.28,0.36,63,Apollinaris,0.15,0,Water
 50.88,2.06,26,Hohes C Orange,0.05,0,Juices
-958.55,40.36,25,Tanqueray,0.05,4,Alcoholic Beverages
+958.55,40.36,25,Tanqueray,0.05,2,Alcoholic Beverages
 49.3,1.16,50,Sprite,0.15,0,Soft Drinks
 271.91,3.64,83,Rauch Multivitamin,0.1,0,Juices
 34.3,2.45,14,Rauch Multivitamin,0.0,0,Juices
@@ -9030,7 +9009,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.06,1.51,6,Beck's,0.0,0,Alcoholic Beverages
 248.85,5.53,50,Riesling,0.1,0,Alcoholic Beverages
 6039.14,91.92,73,Moët & Chandon,0.1,3,Alcoholic Beverages
-823.48,58.82,14,Moët & Chandon,0.0,4,Alcoholic Beverages
+823.48,58.82,14,Moët & Chandon,0.0,2,Alcoholic Beverages
 5.58,1.86,3,Hohes C Orange,0.0,0,Juices
 3.12,3.12,1,Mango Juice,0.0,0,Juices
 4.16,1.04,4,Gerolsteiner,0.0,0,Water
@@ -9058,7 +9037,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 6.84,1.14,6,Coca-Cola,0.0,0,Soft Drinks
 80.14,2.22,38,Monster,0.05,0,Soft Drinks
 4.62,2.31,2,Rauch Multivitamin,0.0,0,Juices
-1484.14,106.01,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1484.14,106.01,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 83.04,13.84,6,Bacardi,0.0,0,Alcoholic Beverages
 53.76,13.44,4,Bacardi,0.0,0,Alcoholic Beverages
 16.36,2.46,7,Rockstar,0.05,0,Soft Drinks
@@ -9074,7 +9053,6 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 121.82,2.82,48,Cranberry Juice,0.1,0,Juices
 56.92,0.93,68,San Pellegrino,0.1,0,Water
 105.16,2.46,45,Granini Apple,0.05,0,Juices
-9076.05,121.5,83,Moët & Chandon,0.1,2,Alcoholic Beverages
 7.63,1.09,7,Augustiner,0.0,0,Alcoholic Beverages
 60.58,60.58,1,Moët & Chandon,0.0,0,Alcoholic Beverages
 9.79,0.64,18,Mountain Dew,0.15,0,Soft Drinks
@@ -9090,7 +9068,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 174.72,13.44,13,Bacardi,0.0,0,Alcoholic Beverages
 301.5,50.25,6,Jack Daniels,0.0,0,Alcoholic Beverages
 11.55,2.31,5,Rauch Multivitamin,0.0,0,Juices
-982.71,109.19,9,Veuve Clicquot,0.0,4,Alcoholic Beverages
+982.71,109.19,9,Veuve Clicquot,0.0,2,Alcoholic Beverages
 20.28,1.69,12,Granini Apple,0.0,0,Juices
 1.41,0.47,3,Selters,0.0,0,Water
 212.42,2.6,86,Rauch Multivitamin,0.05,0,Juices
@@ -9099,8 +9077,8 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.71,0.57,3,Volvic,0.0,0,Water
 4.26,2.13,2,Club Mate,0.0,0,Soft Drinks
 2439.72,30.12,90,Jack Daniels,0.1,1,Alcoholic Beverages
-1099.33,22.69,51,Tanqueray,0.05,4,Alcoholic Beverages
-1083.09,54.29,21,Veuve Clicquot,0.05,4,Alcoholic Beverages
+1099.33,22.69,51,Tanqueray,0.05,2,Alcoholic Beverages
+1083.09,54.29,21,Veuve Clicquot,0.05,2,Alcoholic Beverages
 7.95,1.59,5,Granini Apple,0.0,0,Juices
 124.56,13.84,9,Bacardi,0.0,0,Alcoholic Beverages
 11.44,1.04,11,Gerolsteiner,0.0,0,Water
@@ -9179,7 +9157,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 31.08,2.22,14,Red Bull,0.0,0,Soft Drinks
 5.46,0.91,6,San Pellegrino,0.0,0,Water
 31.7,0.71,47,Gerolsteiner,0.05,0,Water
-1060.1,106.01,10,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1060.1,106.01,10,Veuve Clicquot,0.0,2,Alcoholic Beverages
 71.1,4.74,15,Chardonnay,0.0,0,Alcoholic Beverages
 3.29,0.47,7,Selters,0.0,0,Water
 55.84,0.73,85,Vittel,0.1,0,Water
@@ -9228,7 +9206,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 18.72,3.12,6,Monster,0.0,0,Soft Drinks
 317.4,15.91,21,Bacardi,0.05,0,Alcoholic Beverages
 83.91,1.21,73,Kölsch,0.05,0,Alcoholic Beverages
-585.48,48.79,12,Jack Daniels,0.0,4,Alcoholic Beverages
+585.48,48.79,12,Jack Daniels,0.0,2,Alcoholic Beverages
 15.75,1.75,9,Hohes C Orange,0.0,0,Juices
 4.1,2.05,2,Fritz-Kola,0.0,0,Soft Drinks
 24.01,3.43,7,Tomato Juice,0.0,0,Juices
@@ -9271,7 +9249,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 5.24,1.31,4,Evian,0.0,0,Water
 0.58,0.58,1,Vittel,0.0,0,Water
 40.56,3.12,13,Mango Juice,0.0,0,Juices
-566.68,12.85,49,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+566.68,12.85,49,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 13.95,0.93,15,Mountain Dew,0.0,0,Soft Drinks
 19.26,3.21,6,Mango Juice,0.0,0,Juices
 13.86,0.99,14,Kölsch,0.0,0,Alcoholic Beverages
@@ -9327,7 +9305,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.32,3.12,11,Monster,0.0,0,Soft Drinks
 8.96,4.48,2,Merlot,0.0,0,Alcoholic Beverages
 17.58,2.93,6,Passion Fruit Juice,0.0,0,Juices
-595.12,10.84,61,Merlot,0.1,4,Alcoholic Beverages
+595.12,10.84,61,Merlot,0.1,2,Alcoholic Beverages
 28.38,1.03,29,Warsteiner,0.05,0,Alcoholic Beverages
 1.92,0.96,2,Apollinaris,0.0,0,Water
 213.33,4.01,56,Monster,0.05,0,Soft Drinks
@@ -9443,7 +9421,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 33.15,2.21,15,Rockstar,0.0,0,Soft Drinks
 45.22,3.23,14,Tomato Juice,0.0,0,Juices
 16.2,0.6,30,Sprite,0.1,0,Soft Drinks
-1128.64,84.86,14,Moët & Chandon,0.05,4,Alcoholic Beverages
+1128.64,84.86,14,Moët & Chandon,0.05,2,Alcoholic Beverages
 89.3,2.0,47,Tomato Juice,0.05,0,Juices
 292.74,48.79,6,Jack Daniels,0.0,0,Alcoholic Beverages
 18.59,1.69,11,Granini Apple,0.0,0,Juices
@@ -9484,7 +9462,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2521.44,32.96,85,Havana Club,0.1,1,Alcoholic Beverages
 77.87,2.06,42,Tomato Juice,0.1,0,Juices
 30.55,2.35,13,Red Bull,0.0,0,Soft Drinks
-831.72,25.75,34,Havana Club,0.05,4,Alcoholic Beverages
+831.72,25.75,34,Havana Club,0.05,2,Alcoholic Beverages
 2.42,0.85,3,Schwip Schwap,0.05,0,Soft Drinks
 177.91,3.07,61,Red Bull,0.05,0,Soft Drinks
 50.44,1.77,30,Tomato Juice,0.05,0,Juices
@@ -9521,21 +9499,21 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 9.52,2.38,4,Rauch Multivitamin,0.0,0,Juices
 32.04,3.56,9,Cranberry Juice,0.0,0,Juices
 6.04,3.02,2,Passion Fruit Juice,0.0,0,Juices
-848.08,106.01,8,Veuve Clicquot,0.0,4,Alcoholic Beverages
+848.08,106.01,8,Veuve Clicquot,0.0,2,Alcoholic Beverages
 176.26,3.06,64,Passion Fruit Juice,0.1,0,Juices
 143.13,2.43,62,Augustiner,0.05,0,Alcoholic Beverages
 107.92,1.42,80,Fanta,0.05,0,Soft Drinks
 249.55,35.65,7,Tanqueray,0.0,0,Alcoholic Beverages
 19.38,3.23,6,Tomato Juice,0.0,0,Juices
 7.3,1.46,5,Volvic Touch,0.0,0,Water
-638.36,26.27,27,Moët & Chandon,0.1,4,Alcoholic Beverages
+638.36,26.27,27,Moët & Chandon,0.1,2,Alcoholic Beverages
 24.44,1.88,13,Jever,0.0,0,Alcoholic Beverages
 35.52,35.52,1,Johnnie Walker,0.0,0,Alcoholic Beverages
 4.84,0.85,6,Beck's,0.05,0,Alcoholic Beverages
 73.48,15.47,5,Havana Club,0.05,0,Alcoholic Beverages
 1.14,0.57,2,Volvic,0.0,0,Water
-597.49,48.38,13,Veuve Clicquot,0.05,4,Alcoholic Beverages
-1393.91,23.29,63,Johnnie Walker,0.05,4,Alcoholic Beverages
+597.49,48.38,13,Veuve Clicquot,0.05,2,Alcoholic Beverages
+1393.91,23.29,63,Johnnie Walker,0.05,2,Alcoholic Beverages
 27.86,1.99,14,Jever,0.0,0,Alcoholic Beverages
 18.9,1.26,15,Evian,0.0,0,Water
 43.95,2.93,15,Passion Fruit Juice,0.0,0,Juices
@@ -9564,7 +9542,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 34.3,2.45,14,Rauch Multivitamin,0.0,0,Juices
 30.55,2.35,13,Red Bull,0.0,0,Soft Drinks
 72.25,1.69,45,Tomato Juice,0.05,0,Juices
-797.8,9.96,89,Sauvignon Blanc,0.1,4,Alcoholic Beverages
+797.8,9.96,89,Sauvignon Blanc,0.1,2,Alcoholic Beverages
 15.37,0.61,28,Apollinaris,0.1,0,Water
 16.92,1.41,12,Beck's,0.0,0,Alcoholic Beverages
 6.55,1.31,5,Evian,0.0,0,Water
@@ -9631,7 +9609,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 35.83,0.41,92,Apollinaris,0.05,0,Water
 36.29,0.56,72,Volvic,0.1,0,Water
 7.7,1.1,7,Coca-Cola,0.0,0,Soft Drinks
-562.3,112.46,5,Veuve Clicquot,0.0,4,Alcoholic Beverages
+562.3,112.46,5,Veuve Clicquot,0.0,2,Alcoholic Beverages
 14.76,1.23,12,Fanta,0.0,0,Soft Drinks
 13.53,1.23,11,Evian,0.0,0,Water
 28.48,3.56,8,Cranberry Juice,0.0,0,Juices
@@ -9640,7 +9618,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 3.84,4.04,1,Rotkäppchen Sekt,0.05,0,Alcoholic Beverages
 2477.12,104.3,25,Moët & Chandon,0.05,1,Alcoholic Beverages
 20.19,1.25,19,Augustiner,0.15,0,Alcoholic Beverages
-731.18,8.29,98,Riesling,0.1,4,Alcoholic Beverages
+731.18,8.29,98,Riesling,0.1,2,Alcoholic Beverages
 21.32,1.64,13,Granini Apple,0.0,0,Juices
 1.84,0.46,4,Selters,0.0,0,Water
 17.58,2.93,6,Passion Fruit Juice,0.0,0,Juices
@@ -9675,7 +9653,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 16.56,1.38,12,Volvic Touch,0.0,0,Water
 15.6,3.12,5,Monster,0.0,0,Soft Drinks
 13.12,1.64,8,Granini Apple,0.0,0,Juices
-1289.84,26.54,54,Moët & Chandon,0.1,4,Alcoholic Beverages
+1289.84,26.54,54,Moët & Chandon,0.1,2,Alcoholic Beverages
 6.24,1.04,6,Gerolsteiner,0.0,0,Water
 284.52,4.47,67,Cranberry Juice,0.05,0,Juices
 138.62,1.92,76,Tomato Juice,0.05,0,Juices
@@ -9691,7 +9669,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 52.14,4.74,11,Chardonnay,0.0,0,Alcoholic Beverages
 95.76,1.33,80,Pepsi,0.1,0,Soft Drinks
 23.9,0.68,37,Fanta,0.05,0,Soft Drinks
-666.38,60.58,11,Moët & Chandon,0.0,4,Alcoholic Beverages
+666.38,60.58,11,Moët & Chandon,0.0,2,Alcoholic Beverages
 137.0,1.77,86,Jever,0.1,0,Alcoholic Beverages
 123.01,2.04,67,Granini Apple,0.1,0,Juices
 335.4,4.49,83,Cranberry Juice,0.1,0,Juices
@@ -9699,7 +9677,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 62.12,1.19,58,Apollinaris,0.1,0,Water
 5.8,0.58,10,Vittel,0.0,0,Water
 298.82,6.99,45,Rotkäppchen Sekt,0.05,0,Alcoholic Beverages
-1378.13,106.01,13,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1378.13,106.01,13,Veuve Clicquot,0.0,2,Alcoholic Beverages
 47.3,0.72,73,Vittel,0.1,0,Water
 45.75,2.21,23,Fritz-Kola,0.1,0,Soft Drinks
 46.65,3.11,15,Passion Fruit Juice,0.0,0,Juices
@@ -9733,7 +9711,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 1.75,1.75,1,Hohes C Orange,0.0,0,Juices
 55.06,1.26,46,Hohes C Orange,0.05,0,Juices
 14.84,2.12,7,Fritz-Kola,0.0,0,Soft Drinks
-787.54,60.58,13,Moët & Chandon,0.0,4,Alcoholic Beverages
+787.54,60.58,13,Moët & Chandon,0.0,2,Alcoholic Beverages
 11.34,1.26,9,Evian,0.0,0,Water
 155.77,1.87,98,Gerolsteiner,0.15,0,Water
 10.94,0.64,18,Pepsi,0.05,0,Soft Drinks
@@ -9762,7 +9740,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 2.52,0.63,4,Mezzo Mix,0.0,0,Soft Drinks
 25.2,1.8,14,Hohes C Orange,0.0,0,Juices
 36.7,3.67,10,Cranberry Juice,0.0,0,Juices
-1686.9,112.46,15,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1686.9,112.46,15,Veuve Clicquot,0.0,2,Alcoholic Beverages
 21.9,1.46,15,Beck's,0.0,0,Alcoholic Beverages
 239.4,3.5,76,Tomato Juice,0.1,0,Juices
 18.35,0.42,46,San Pellegrino,0.05,0,Water
@@ -9783,7 +9761,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 234.6,3.68,75,Rotkäppchen Sekt,0.15,0,Alcoholic Beverages
 3.92,0.49,8,Selters,0.0,0,Water
 7.86,1.31,6,Evian,0.0,0,Water
-1419.47,109.19,13,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1419.47,109.19,13,Veuve Clicquot,0.0,2,Alcoholic Beverages
 8.55,1.71,5,Vio Wasser,0.0,0,Water
 23.7,1.58,15,Pepsi,0.0,0,Soft Drinks
 125.49,1.91,73,Evian,0.1,0,Water
@@ -9808,7 +9786,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 12.44,3.11,4,Passion Fruit Juice,0.0,0,Juices
 17.78,1.27,14,Schwip Schwap,0.0,0,Soft Drinks
 16.39,1.49,11,Pepsi,0.0,0,Soft Drinks
-1081.33,24.52,49,Bacardi,0.1,4,Alcoholic Beverages
+1081.33,24.52,49,Bacardi,0.1,2,Alcoholic Beverages
 10.2,1.02,10,Warsteiner,0.0,0,Alcoholic Beverages
 40.72,1.56,29,Hohes C Orange,0.1,0,Juices
 10.77,0.63,18,Volvic,0.05,0,Water
@@ -9836,7 +9814,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 19.52,4.88,4,Chardonnay,0.0,0,Alcoholic Beverages
 14.04,2.34,6,Rockstar,0.0,0,Soft Drinks
 238.9,2.99,94,Fritz-Kola,0.15,0,Soft Drinks
-1484.14,106.01,14,Veuve Clicquot,0.0,4,Alcoholic Beverages
+1484.14,106.01,14,Veuve Clicquot,0.0,2,Alcoholic Beverages
 11.01,3.67,3,Cranberry Juice,0.0,0,Juices
 13.24,3.31,4,Mango Juice,0.0,0,Juices
 1.74,0.58,3,Vittel,0.0,0,Water
@@ -9858,7 +9836,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 22.08,3.32,7,Rockstar,0.05,0,Soft Drinks
 104.25,2.97,39,Mango Juice,0.1,0,Juices
 76.64,1.61,56,Vio Wasser,0.15,0,Water
-1079.42,37.48,32,Johnnie Walker,0.1,4,Alcoholic Beverages
+1079.42,37.48,32,Johnnie Walker,0.1,2,Alcoholic Beverages
 90.45,2.01,50,Erdinger Weißbier,0.1,0,Alcoholic Beverages
 134.52,2.4,59,Cranberry Juice,0.05,0,Juices
 15.92,1.99,8,Fritz-Kola,0.0,0,Soft Drinks
@@ -9866,7 +9844,7 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 51.03,1.89,30,Tomato Juice,0.1,0,Juices
 27.24,2.27,12,Rockstar,0.0,0,Soft Drinks
 24.16,3.02,8,Passion Fruit Juice,0.0,0,Juices
-1248.78,17.13,81,Merlot,0.1,4,Alcoholic Beverages
+1248.78,17.13,81,Merlot,0.1,2,Alcoholic Beverages
 11.99,1.09,11,Augustiner,0.0,0,Alcoholic Beverages
 20.67,1.59,13,Krombacher,0.0,0,Alcoholic Beverages
 60.36,5.03,12,Chardonnay,0.0,0,Alcoholic Beverages
@@ -9915,12 +9893,12 @@ Total_Price,Unit_Price,Quantity,Product,Discount,Cluster,Category
 57.3,1.16,52,Evian,0.05,0,Water
 17.1,1.14,15,Coca-Cola,0.0,0,Soft Drinks
 9.94,1.42,7,Volvic Touch,0.0,0,Water
-613.09,7.84,92,Rotkäppchen Sekt,0.15,4,Alcoholic Beverages
+613.09,7.84,92,Rotkäppchen Sekt,0.15,2,Alcoholic Beverages
 6.42,3.21,2,Mango Juice,0.0,0,Juices
 55.05,3.67,15,Cranberry Juice,0.0,0,Juices
 10.38,3.46,3,Cranberry Juice,0.0,0,Juices
 14.3,1.1,13,Coca-Cola,0.0,0,Soft Drinks
-658.48,9.38,78,Merlot,0.1,4,Alcoholic Beverages
+658.48,9.38,78,Merlot,0.1,2,Alcoholic Beverages
 12.9,0.86,15,San Pellegrino,0.0,0,Water
 61.24,0.84,81,Volvic,0.1,0,Water
 18.05,0.95,20,Volvic,0.05,0,Water
